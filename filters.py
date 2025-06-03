@@ -7,7 +7,6 @@ def filter_product(product, min_price, max_price, min_rating, min_reviews, brand
         return False
     if brand and brand.lower() not in product.get("brand", "").lower():
         return False
-    feedback_discount = product.get("feedback_discount", 0.0)
-    if feedback_discount > 0 and product["current_price"] >= feedback_discount:
+    if product["current_price"] >= product["feedback_discount"]:
         return False
     return True 

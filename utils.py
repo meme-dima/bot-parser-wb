@@ -1,8 +1,10 @@
 import logging
 import random
 import requests
+import os
+import json
 from fake_useragent import UserAgent
-from config import PROXY_LIST
+from config import PROXY_LIST, COOKIES_FILE
 
 logging.basicConfig(
     filename='wb_parser.log',
@@ -34,21 +36,15 @@ def get_random_user_agent():
         ua = UserAgent()
         return ua.random
     except Exception:
-        # Возвращаем более свежий и распространенный User-Agent в случае ошибки
-        return "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        return "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # Получить случайный рабочий прокси
 FAILED_PROXIES = set()
 def get_random_proxy():
     global WORKING_PROXIES
-    # Сначала проверяем, есть ли WORKING_PROXIES вообще
-    if not WORKING_PROXIES:
-        # logging.warning("Список WORKING_PROXIES пуст. Запрос прокси невозможен.") # Это уже логгируется в filter_working_proxies
-        return None
     available = [p for p in WORKING_PROXIES if p not in FAILED_PROXIES]
     if available:
         return random.choice(available)
-    # logging.warning("Нет доступных рабочих прокси (все были отмечены как FAILED_PROXIES или список изначально пуст).")
     return None
 
 def mark_proxy_failed(proxy):
@@ -58,5 +54,17 @@ def mark_proxy_failed(proxy):
 def log_info(msg):
     logging.info(msg)
 
-def log_error(msg, exc_info=False):
-    logging.error(msg, exc_info=exc_info) 
+def log_error(msg):
+    logging.error(msg)
+
+def load_cookies():
+    """Загружает cookies из файла COOKIES_FILE (cookies.json)."""
+    if not os.path.exists(COOKIES_FILE):
+        return []
+    with open(COOKIES_FILE, 'r', encoding='utf-8') as f:
+        try:
+            cookies = json.load(f)
+            return cookies
+        except Exception as e:
+            logging.error(f"Ошибка загрузки cookies: {e}")
+            return [] 

@@ -8,9 +8,6 @@ from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 from utils import get_random_user_agent, get_random_proxy, log_info, log_error, load_cookies
 from config import DEFAULT_MAX_PAGES
-import logging
-
-logger = logging.getLogger(__name__)
 
 def get_product_links(driver, search_query=None, category_url=None, max_pages=DEFAULT_MAX_PAGES):
     links = set()
@@ -47,7 +44,7 @@ def get_all_product_links(driver, search_query=None, category_url=None):
         if not new_links or new_links.issubset(links):
             break
         links.update(new_links)
-        logger.info(f"Собрано ссылок: {len(links)} (страница {page})")
+        print(f"Собрано ссылок: {len(links)} (страница {page})")
         page += 1
     return list(links)
 
@@ -64,8 +61,8 @@ def parse_product_page(driver, url):
     time.sleep(random.uniform(2, 4))
     soup = BeautifulSoup(driver.page_source, "html.parser")
     if soup.find("div", class_="captcha__container"):
-        logger.error(f"Обнаружена капча на странице {url}. Парсинг невозможен.")
-        return None
+        input("Обнаружена капча! Решите вручную и нажмите Enter...")
+        soup = BeautifulSoup(driver.page_source, "html.parser")
     article = url.split('/')[-2]
     product_name = soup.find("h1", {"data-link": "text{:productCard.title}"})
     product_name = product_name.text.strip() if product_name else ""
@@ -135,10 +132,5 @@ def get_driver(proxy=None, user_agent=None):
         options.add_argument(f"--user-agent={user_agent}")
     if proxy:
         options.add_argument(f'--proxy-server={proxy}')
-    try:
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-        logger.info(f"WebDriver Chrome запущен. User-Agent: {user_agent}, Proxy: {proxy}")
-    except Exception as e:
-        logger.error(f"Ошибка при инициализации WebDriver Chrome: {e}", exc_info=True)
-        raise
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver 

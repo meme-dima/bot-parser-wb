@@ -1,8 +1,7 @@
-aiogram
 selenium
 beautifulsoup4
 webdriver-manager
 pandas
 fake-useragent
-requests
-python-dotenv 
+requests 
+python-dotenv

@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv() # Загружаем переменные из .env файла
+load_dotenv()
 
 # Фильтры и параметры
 DEFAULT_SEARCH_QUERY = "маска для волос"
@@ -24,9 +24,8 @@ USER_AGENT_FILE = "useragents.txt"
 COOKIES_FILE = "cookies.json"
 
 # Telegram
-# Загружаем из .env или используем значения по умолчанию
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "") # Оставляем пустую строку как дефолт, если не найдено
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "") # Оставляем пустую строку как дефолт
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # Прокси
 PROXY_LIST = []
