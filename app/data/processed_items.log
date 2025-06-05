@@ -1,0 +1,1380 @@
+2025-06-04 18:16:35,253: Начало обработки URL: https://www.wildberries.ru/catalog/387085445/detail.aspx
+2025-06-04 18:16:41,163: Нет ключевых данных: https://www.wildberries.ru/catalog/387085445/detail.aspx - Product name and price not found
+2025-06-04 18:16:42,226: Начало обработки URL: https://www.wildberries.ru/catalog/208541609/detail.aspx
+2025-06-04 18:16:45,539: Успешно: https://www.wildberries.ru/catalog/208541609/detail.aspx - Маска Kallos Keratin для восстановления волос, 1л.
+2025-06-04 18:16:46,126: Начало обработки URL: https://www.wildberries.ru/catalog/349009407/detail.aspx
+2025-06-04 18:16:50,042: Успешно: https://www.wildberries.ru/catalog/349009407/detail.aspx - Маска для волос увлажняющая восстанавливающая для роста
+2025-06-04 18:16:50,574: Начало обработки URL: https://www.wildberries.ru/catalog/333605669/detail.aspx
+2025-06-04 18:16:53,664: Успешно: https://www.wildberries.ru/catalog/333605669/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:16:54,749: Начало обработки URL: https://www.wildberries.ru/catalog/210962960/detail.aspx
+2025-06-04 18:16:57,340: Успешно: https://www.wildberries.ru/catalog/210962960/detail.aspx - Профессиональная маска для волос увлажнение и восстановление
+2025-06-04 18:16:58,533: Начало обработки URL: https://www.wildberries.ru/catalog/148825454/detail.aspx
+2025-06-04 18:17:01,850: Успешно: https://www.wildberries.ru/catalog/148825454/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:17:02,716: Начало обработки URL: https://www.wildberries.ru/catalog/174602477/detail.aspx
+2025-06-04 18:17:05,612: Успешно: https://www.wildberries.ru/catalog/174602477/detail.aspx - Маска для волос восстанавливающая с кератином 150 мл
+2025-06-04 18:17:06,233: Начало обработки URL: https://www.wildberries.ru/catalog/63827956/detail.aspx
+2025-06-04 18:17:09,850: Успешно: https://www.wildberries.ru/catalog/63827956/detail.aspx - Маска для волос увлажняющая питательная с кератином, 270 мл
+2025-06-04 18:17:11,064: Начало обработки URL: https://www.wildberries.ru/catalog/362340372/detail.aspx
+2025-06-04 18:17:14,586: Успешно: https://www.wildberries.ru/catalog/362340372/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:17:15,250: Начало обработки URL: https://www.wildberries.ru/catalog/39583936/detail.aspx
+2025-06-04 18:17:19,341: Успешно: https://www.wildberries.ru/catalog/39583936/detail.aspx - Маска для волос Zoom Keratin с кератином
+2025-06-04 18:17:20,782: Начало обработки URL: https://www.wildberries.ru/catalog/311860734/detail.aspx
+2025-06-04 18:17:21,965: Крит. ошибка цикла: https://www.wildberries.ru/catalog/311860734/detail.aspx - InvalidSessionIdException
+2025-06-04 18:17:23,354: Начало обработки URL: https://www.wildberries.ru/catalog/409686211/detail.aspx
+2025-06-04 18:17:23,359: Крит. ошибка цикла: https://www.wildberries.ru/catalog/409686211/detail.aspx - InvalidSessionIdException
+2025-06-04 18:17:24,458: Начало обработки URL: https://www.wildberries.ru/catalog/283765981/detail.aspx
+2025-06-04 18:17:24,465: Крит. ошибка цикла: https://www.wildberries.ru/catalog/283765981/detail.aspx - InvalidSessionIdException
+2025-06-04 18:17:25,008: Начало обработки URL: https://www.wildberries.ru/catalog/8000896/detail.aspx
+2025-06-04 18:17:25,011: Крит. ошибка цикла: https://www.wildberries.ru/catalog/8000896/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:24,199: Начало обработки URL: https://www.wildberries.ru/catalog/338519011/detail.aspx
+2025-06-04 18:18:24,201: Крит. ошибка цикла: https://www.wildberries.ru/catalog/338519011/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:24,774: Начало обработки URL: https://www.wildberries.ru/catalog/279201071/detail.aspx
+2025-06-04 18:18:24,776: Крит. ошибка цикла: https://www.wildberries.ru/catalog/279201071/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:25,960: Начало обработки URL: https://www.wildberries.ru/catalog/43818605/detail.aspx
+2025-06-04 18:18:25,965: Крит. ошибка цикла: https://www.wildberries.ru/catalog/43818605/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:26,774: Начало обработки URL: https://www.wildberries.ru/catalog/369749155/detail.aspx
+2025-06-04 18:18:26,777: Крит. ошибка цикла: https://www.wildberries.ru/catalog/369749155/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:27,773: Начало обработки URL: https://www.wildberries.ru/catalog/356505809/detail.aspx
+2025-06-04 18:18:27,775: Крит. ошибка цикла: https://www.wildberries.ru/catalog/356505809/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:28,537: Начало обработки URL: https://www.wildberries.ru/catalog/326586729/detail.aspx
+2025-06-04 18:18:28,818: Крит. ошибка цикла: https://www.wildberries.ru/catalog/326586729/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:30,285: Начало обработки URL: https://www.wildberries.ru/catalog/306439583/detail.aspx
+2025-06-04 18:18:30,288: Крит. ошибка цикла: https://www.wildberries.ru/catalog/306439583/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:31,049: Начало обработки URL: https://www.wildberries.ru/catalog/227679932/detail.aspx
+2025-06-04 18:18:31,052: Крит. ошибка цикла: https://www.wildberries.ru/catalog/227679932/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:32,440: Начало обработки URL: https://www.wildberries.ru/catalog/259364235/detail.aspx
+2025-06-04 18:18:32,442: Крит. ошибка цикла: https://www.wildberries.ru/catalog/259364235/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:33,050: Начало обработки URL: https://www.wildberries.ru/catalog/343343165/detail.aspx
+2025-06-04 18:18:33,051: Крит. ошибка цикла: https://www.wildberries.ru/catalog/343343165/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:33,890: Начало обработки URL: https://www.wildberries.ru/catalog/151559885/detail.aspx
+2025-06-04 18:18:33,905: Крит. ошибка цикла: https://www.wildberries.ru/catalog/151559885/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:34,452: Начало обработки URL: https://www.wildberries.ru/catalog/240451517/detail.aspx
+2025-06-04 18:18:34,454: Крит. ошибка цикла: https://www.wildberries.ru/catalog/240451517/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:35,535: Начало обработки URL: https://www.wildberries.ru/catalog/81495986/detail.aspx
+2025-06-04 18:18:35,537: Крит. ошибка цикла: https://www.wildberries.ru/catalog/81495986/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:36,205: Начало обработки URL: https://www.wildberries.ru/catalog/315372914/detail.aspx
+2025-06-04 18:18:36,207: Крит. ошибка цикла: https://www.wildberries.ru/catalog/315372914/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:36,939: Начало обработки URL: https://www.wildberries.ru/catalog/13601706/detail.aspx
+2025-06-04 18:18:36,940: Крит. ошибка цикла: https://www.wildberries.ru/catalog/13601706/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:37,657: Начало обработки URL: https://www.wildberries.ru/catalog/336045184/detail.aspx
+2025-06-04 18:18:37,759: Крит. ошибка цикла: https://www.wildberries.ru/catalog/336045184/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:38,650: Начало обработки URL: https://www.wildberries.ru/catalog/152980887/detail.aspx
+2025-06-04 18:18:38,653: Крит. ошибка цикла: https://www.wildberries.ru/catalog/152980887/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:39,987: Начало обработки URL: https://www.wildberries.ru/catalog/150970312/detail.aspx
+2025-06-04 18:18:39,989: Крит. ошибка цикла: https://www.wildberries.ru/catalog/150970312/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:40,910: Начало обработки URL: https://www.wildberries.ru/catalog/338416498/detail.aspx
+2025-06-04 18:18:40,912: Крит. ошибка цикла: https://www.wildberries.ru/catalog/338416498/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:42,173: Начало обработки URL: https://www.wildberries.ru/catalog/197085268/detail.aspx
+2025-06-04 18:18:42,175: Крит. ошибка цикла: https://www.wildberries.ru/catalog/197085268/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:43,668: Начало обработки URL: https://www.wildberries.ru/catalog/161856698/detail.aspx
+2025-06-04 18:18:43,669: Крит. ошибка цикла: https://www.wildberries.ru/catalog/161856698/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:44,439: Начало обработки URL: https://www.wildberries.ru/catalog/31277202/detail.aspx
+2025-06-04 18:18:44,440: Крит. ошибка цикла: https://www.wildberries.ru/catalog/31277202/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:45,864: Начало обработки URL: https://www.wildberries.ru/catalog/145849105/detail.aspx
+2025-06-04 18:18:45,866: Крит. ошибка цикла: https://www.wildberries.ru/catalog/145849105/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:46,708: Начало обработки URL: https://www.wildberries.ru/catalog/262605953/detail.aspx
+2025-06-04 18:18:46,710: Крит. ошибка цикла: https://www.wildberries.ru/catalog/262605953/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:47,565: Начало обработки URL: https://www.wildberries.ru/catalog/428675545/detail.aspx
+2025-06-04 18:18:47,568: Крит. ошибка цикла: https://www.wildberries.ru/catalog/428675545/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:48,694: Начало обработки URL: https://www.wildberries.ru/catalog/219605879/detail.aspx
+2025-06-04 18:18:48,793: Крит. ошибка цикла: https://www.wildberries.ru/catalog/219605879/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:50,286: Начало обработки URL: https://www.wildberries.ru/catalog/416457221/detail.aspx
+2025-06-04 18:18:50,288: Крит. ошибка цикла: https://www.wildberries.ru/catalog/416457221/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:51,206: Начало обработки URL: https://www.wildberries.ru/catalog/364173190/detail.aspx
+2025-06-04 18:18:51,208: Крит. ошибка цикла: https://www.wildberries.ru/catalog/364173190/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:52,401: Начало обработки URL: https://www.wildberries.ru/catalog/297336015/detail.aspx
+2025-06-04 18:18:52,403: Крит. ошибка цикла: https://www.wildberries.ru/catalog/297336015/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:53,480: Начало обработки URL: https://www.wildberries.ru/catalog/333963013/detail.aspx
+2025-06-04 18:18:53,482: Крит. ошибка цикла: https://www.wildberries.ru/catalog/333963013/detail.aspx - InvalidSessionIdException
+2025-06-04 18:18:54,091: Начало обработки URL: https://www.wildberries.ru/catalog/265595687/detail.aspx
+2025-06-04 18:18:54,093: Крит. ошибка цикла: https://www.wildberries.ru/catalog/265595687/detail.aspx - InvalidSessionIdException
+2025-06-04 18:20:49,109: Начало обработки URL: https://www.wildberries.ru/catalog/346338487/detail.aspx
+2025-06-04 18:20:53,764: Нет ключевых данных: https://www.wildberries.ru/catalog/346338487/detail.aspx - Product name and price not found
+2025-06-04 18:20:54,686: Начало обработки URL: https://www.wildberries.ru/catalog/307906611/detail.aspx
+2025-06-04 18:20:57,224: Успешно: https://www.wildberries.ru/catalog/307906611/detail.aspx - Маска для волос с кератином Красса PRO-LINE
+2025-06-04 18:20:58,379: Начало обработки URL: https://www.wildberries.ru/catalog/404546165/detail.aspx
+2025-06-04 18:21:01,328: Успешно: https://www.wildberries.ru/catalog/404546165/detail.aspx - Маска для волос восстанавливающая питательная с кератином
+2025-06-04 18:21:02,127: Начало обработки URL: https://www.wildberries.ru/catalog/273532729/detail.aspx
+2025-06-04 18:21:05,817: Успешно: https://www.wildberries.ru/catalog/273532729/detail.aspx - Маска для волос увлажняющая с кератином
+2025-06-04 18:21:06,593: Начало обработки URL: https://www.wildberries.ru/catalog/423331604/detail.aspx
+2025-06-04 18:21:10,137: Успешно: https://www.wildberries.ru/catalog/423331604/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:21:11,269: Начало обработки URL: https://www.wildberries.ru/catalog/423498978/detail.aspx
+2025-06-04 18:21:14,000: Успешно: https://www.wildberries.ru/catalog/423498978/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:21:15,221: Начало обработки URL: https://www.wildberries.ru/catalog/210893914/detail.aspx
+2025-06-04 18:21:18,868: Успешно: https://www.wildberries.ru/catalog/210893914/detail.aspx - Маска для волос .
+2025-06-04 18:21:20,196: Начало обработки URL: https://www.wildberries.ru/catalog/332317817/detail.aspx
+2025-06-04 18:21:24,293: Успешно: https://www.wildberries.ru/catalog/332317817/detail.aspx - Маска для волос восстанавливающая Keratin&Honey, 500мл
+2025-06-04 18:21:25,628: Начало обработки URL: https://www.wildberries.ru/catalog/311860734/detail.aspx
+2025-06-04 18:21:29,212: Успешно: https://www.wildberries.ru/catalog/311860734/detail.aspx - Маска для волос увлажняющая восстанавливающая
+2025-06-04 18:21:30,542: Начало обработки URL: https://www.wildberries.ru/catalog/21032255/detail.aspx
+2025-06-04 18:21:34,036: Успешно: https://www.wildberries.ru/catalog/21032255/detail.aspx - Маска для волос профессиональная с кератином 500 мл
+2025-06-04 18:21:35,436: Начало обработки URL: https://www.wildberries.ru/catalog/295900123/detail.aspx
+2025-06-04 18:21:38,002: Успешно: https://www.wildberries.ru/catalog/295900123/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 18:21:39,508: Начало обработки URL: https://www.wildberries.ru/catalog/332617384/detail.aspx
+2025-06-04 18:21:42,579: Успешно: https://www.wildberries.ru/catalog/332617384/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:21:43,228: Начало обработки URL: https://www.wildberries.ru/catalog/413006571/detail.aspx
+2025-06-04 18:21:46,159: Успешно: https://www.wildberries.ru/catalog/413006571/detail.aspx - Маска для волос с кератином
+2025-06-04 18:21:47,480: Начало обработки URL: https://www.wildberries.ru/catalog/308343812/detail.aspx
+2025-06-04 18:21:51,062: Успешно: https://www.wildberries.ru/catalog/308343812/detail.aspx - Восстанавливающая маска для волос
+2025-06-04 18:21:51,824: Начало обработки URL: https://www.wildberries.ru/catalog/221712945/detail.aspx
+2025-06-04 18:21:55,356: Успешно: https://www.wildberries.ru/catalog/221712945/detail.aspx - Маска для волос с кератином, 110 мл
+2025-06-04 18:21:56,015: Начало обработки URL: https://www.wildberries.ru/catalog/227679932/detail.aspx
+2025-06-04 18:21:59,202: Успешно: https://www.wildberries.ru/catalog/227679932/detail.aspx - Холодный ботокс маска для волос липидная восстанавливающая
+2025-06-04 18:22:00,425: Начало обработки URL: https://www.wildberries.ru/catalog/219519719/detail.aspx
+2025-06-04 18:22:03,986: Успешно: https://www.wildberries.ru/catalog/219519719/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:22:05,167: Начало обработки URL: https://www.wildberries.ru/catalog/257693006/detail.aspx
+2025-06-04 18:22:07,465: Успешно: https://www.wildberries.ru/catalog/257693006/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:22:08,257: Начало обработки URL: https://www.wildberries.ru/catalog/371877969/detail.aspx
+2025-06-04 18:22:11,362: Успешно: https://www.wildberries.ru/catalog/371877969/detail.aspx - Маска для волос восстанавливающая эффект ламинирования
+2025-06-04 18:22:12,309: Начало обработки URL: https://www.wildberries.ru/catalog/151559885/detail.aspx
+2025-06-04 18:22:14,841: Успешно: https://www.wildberries.ru/catalog/151559885/detail.aspx - Маска для волос с кератином профессиональная, 500 мл
+2025-06-04 18:22:15,959: Начало обработки URL: https://www.wildberries.ru/catalog/188505999/detail.aspx
+2025-06-04 18:22:19,713: Успешно: https://www.wildberries.ru/catalog/188505999/detail.aspx - Маска с кератином 500 мл After Keratin
+2025-06-04 18:22:20,354: Начало обработки URL: https://www.wildberries.ru/catalog/407001185/detail.aspx
+2025-06-04 18:22:23,458: Успешно: https://www.wildberries.ru/catalog/407001185/detail.aspx - Маска для волос с кератином
+2025-06-04 18:22:24,837: Начало обработки URL: https://www.wildberries.ru/catalog/368216203/detail.aspx
+2025-06-04 18:22:27,913: Успешно: https://www.wildberries.ru/catalog/368216203/detail.aspx - Маска для волос с кератином
+2025-06-04 18:22:28,796: Начало обработки URL: https://www.wildberries.ru/catalog/194826408/detail.aspx
+2025-06-04 18:22:31,202: Успешно: https://www.wildberries.ru/catalog/194826408/detail.aspx - Маска для волос профессиональная восстанавливающая
+2025-06-04 18:22:31,977: Начало обработки URL: https://www.wildberries.ru/catalog/228347129/detail.aspx
+2025-06-04 18:22:34,971: Успешно: https://www.wildberries.ru/catalog/228347129/detail.aspx - Маска для волос 12в1 250мл
+2025-06-04 18:22:36,107: Начало обработки URL: https://www.wildberries.ru/catalog/145855513/detail.aspx
+2025-06-04 18:22:40,121: Успешно: https://www.wildberries.ru/catalog/145855513/detail.aspx - Увлажняющая маска - кондиционер для окрашенных волос
+2025-06-04 18:22:41,375: Начало обработки URL: https://www.wildberries.ru/catalog/415198630/detail.aspx
+2025-06-04 18:22:43,725: Успешно: https://www.wildberries.ru/catalog/415198630/detail.aspx - Маска для волос с кератином
+2025-06-04 18:22:44,950: Начало обработки URL: https://www.wildberries.ru/catalog/432345433/detail.aspx
+2025-06-04 18:22:47,193: Успешно: https://www.wildberries.ru/catalog/432345433/detail.aspx - Профессиональная маска для волос восстанавливающая
+2025-06-04 18:22:48,488: Начало обработки URL: https://www.wildberries.ru/catalog/224245627/detail.aspx
+2025-06-04 18:22:51,904: Успешно: https://www.wildberries.ru/catalog/224245627/detail.aspx - Увлажняющая маска для волос восстанавливающая питательная
+2025-06-04 18:22:53,387: Начало обработки URL: https://www.wildberries.ru/catalog/59007567/detail.aspx
+2025-06-04 18:22:56,220: Успешно: https://www.wildberries.ru/catalog/59007567/detail.aspx - Реструктурирующая маска для волос с кератином
+2025-06-04 18:22:56,751: Начало обработки URL: https://www.wildberries.ru/catalog/145849105/detail.aspx
+2025-06-04 18:23:00,032: Успешно: https://www.wildberries.ru/catalog/145849105/detail.aspx - Профессиональная увлажняющая маска для волос 2 х 150
+2025-06-04 18:23:00,716: Начало обработки URL: https://www.wildberries.ru/catalog/179555950/detail.aspx
+2025-06-04 18:23:04,668: Успешно: https://www.wildberries.ru/catalog/179555950/detail.aspx - Маска для волос кожи головы от выпадения волос с кератином
+2025-06-04 18:23:05,745: Начало обработки URL: https://www.wildberries.ru/catalog/298189653/detail.aspx
+2025-06-04 18:23:08,719: Успешно: https://www.wildberries.ru/catalog/298189653/detail.aspx - Восстанавливающая маска для поврежденных волос Матрикс 250мл
+2025-06-04 18:23:09,761: Начало обработки URL: https://www.wildberries.ru/catalog/387085444/detail.aspx
+2025-06-04 18:23:12,608: Успешно: https://www.wildberries.ru/catalog/387085444/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:23:13,256: Начало обработки URL: https://www.wildberries.ru/catalog/224769143/detail.aspx
+2025-06-04 18:23:17,486: Успешно: https://www.wildberries.ru/catalog/224769143/detail.aspx - Разглаживающая маска для волос с кератином
+2025-06-04 18:23:18,031: Начало обработки URL: https://www.wildberries.ru/catalog/260866114/detail.aspx
+2025-06-04 18:23:21,766: Успешно: https://www.wildberries.ru/catalog/260866114/detail.aspx - Маска для волос с кератином KERATIN восстанавливающая 300 мл
+2025-06-04 18:23:23,136: Начало обработки URL: https://www.wildberries.ru/catalog/364173190/detail.aspx
+2025-06-04 18:23:25,754: Успешно: https://www.wildberries.ru/catalog/364173190/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:23:26,984: Начало обработки URL: https://www.wildberries.ru/catalog/159186031/detail.aspx
+2025-06-04 18:23:29,960: Успешно: https://www.wildberries.ru/catalog/159186031/detail.aspx - Маска для волос кератиновая, 201мл
+2025-06-04 18:23:31,079: Начало обработки URL: https://www.wildberries.ru/catalog/349009407/detail.aspx
+2025-06-04 18:23:34,023: Успешно: https://www.wildberries.ru/catalog/349009407/detail.aspx - Маска для волос увлажняющая восстанавливающая для роста
+2025-06-04 18:23:35,530: Начало обработки URL: https://www.wildberries.ru/catalog/233721398/detail.aspx
+2025-06-04 18:23:39,028: Успешно: https://www.wildberries.ru/catalog/233721398/detail.aspx - Маска-бальзам для волос Kerafee Night с кератином
+2025-06-04 18:23:39,978: Начало обработки URL: https://www.wildberries.ru/catalog/257693008/detail.aspx
+2025-06-04 18:23:44,223: Успешно: https://www.wildberries.ru/catalog/257693008/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:23:45,409: Начало обработки URL: https://www.wildberries.ru/catalog/210962960/detail.aspx
+2025-06-04 18:23:48,897: Успешно: https://www.wildberries.ru/catalog/210962960/detail.aspx - Профессиональная маска для волос увлажнение и восстановление
+2025-06-04 18:23:49,860: Начало обработки URL: https://www.wildberries.ru/catalog/338846515/detail.aspx
+2025-06-04 18:23:54,012: Успешно: https://www.wildberries.ru/catalog/338846515/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:23:54,967: Начало обработки URL: https://www.wildberries.ru/catalog/313488973/detail.aspx
+2025-06-04 18:23:57,921: Успешно: https://www.wildberries.ru/catalog/313488973/detail.aspx - Маска для волос с кератином
+2025-06-04 18:23:58,704: Начало обработки URL: https://www.wildberries.ru/catalog/411737382/detail.aspx
+2025-06-04 18:24:02,574: Успешно: https://www.wildberries.ru/catalog/411737382/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:24:03,901: Начало обработки URL: https://www.wildberries.ru/catalog/343416118/detail.aspx
+2025-06-04 18:24:06,818: Успешно: https://www.wildberries.ru/catalog/343416118/detail.aspx - Маска для волос с кератином
+2025-06-04 18:24:08,147: Начало обработки URL: https://www.wildberries.ru/catalog/367239221/detail.aspx
+2025-06-04 18:24:12,279: Успешно: https://www.wildberries.ru/catalog/367239221/detail.aspx - Маска для волос KERATIN HAIR MASK
+2025-06-04 18:24:13,510: Начало обработки URL: https://www.wildberries.ru/catalog/2089607/detail.aspx
+2025-06-04 18:24:17,433: Успешно: https://www.wildberries.ru/catalog/2089607/detail.aspx - Маска для волос профессиональная увлажняющая с кератином
+2025-06-04 18:24:18,030: Начало обработки URL: https://www.wildberries.ru/catalog/207584207/detail.aspx
+2025-06-04 18:24:21,386: Успешно: https://www.wildberries.ru/catalog/207584207/detail.aspx - Маска восстанавливающая для волос с кератином и арганой 3в1
+2025-06-04 18:24:22,633: Начало обработки URL: https://www.wildberries.ru/catalog/417878102/detail.aspx
+2025-06-04 18:24:25,266: Успешно: https://www.wildberries.ru/catalog/417878102/detail.aspx - Маска для волос с аргановым маслом и кератином
+2025-06-04 18:24:26,396: Начало обработки URL: https://www.wildberries.ru/catalog/258022328/detail.aspx
+2025-06-04 18:24:30,518: Успешно: https://www.wildberries.ru/catalog/258022328/detail.aspx - Маска для волос с кератином 450 мл
+2025-06-04 18:24:31,480: Начало обработки URL: https://www.wildberries.ru/catalog/212095152/detail.aspx
+2025-06-04 18:24:35,242: Успешно: https://www.wildberries.ru/catalog/212095152/detail.aspx - Маска для волос восстанавливающая Salon Total
+2025-06-04 18:24:36,385: Начало обработки URL: https://www.wildberries.ru/catalog/433889893/detail.aspx
+2025-06-04 18:24:39,974: Успешно: https://www.wildberries.ru/catalog/433889893/detail.aspx - Кератиновая маска для волос профессиональный уход у вас дома
+2025-06-04 18:24:40,915: Начало обработки URL: https://www.wildberries.ru/catalog/115229978/detail.aspx
+2025-06-04 18:24:44,451: Успешно: https://www.wildberries.ru/catalog/115229978/detail.aspx - Маска для волос завершающая профессиональная кератин 1 литр
+2025-06-04 18:24:45,408: Начало обработки URL: https://www.wildberries.ru/catalog/189038509/detail.aspx
+2025-06-04 18:24:48,263: Успешно: https://www.wildberries.ru/catalog/189038509/detail.aspx - Маска для волос
+2025-06-04 18:24:48,781: Начало обработки URL: https://www.wildberries.ru/catalog/263882457/detail.aspx
+2025-06-04 18:24:51,553: Успешно: https://www.wildberries.ru/catalog/263882457/detail.aspx - Маска для волос с коллагеном 100 мл
+2025-06-04 18:24:52,336: Начало обработки URL: https://www.wildberries.ru/catalog/413241272/detail.aspx
+2025-06-04 18:24:54,881: Успешно: https://www.wildberries.ru/catalog/413241272/detail.aspx - маска для волос Nami
+2025-06-04 18:24:55,589: Начало обработки URL: https://www.wildberries.ru/catalog/413896375/detail.aspx
+2025-06-04 18:24:59,685: Успешно: https://www.wildberries.ru/catalog/413896375/detail.aspx - Маска для волос с кератином Lamination Gloss, 220мл
+2025-06-04 18:25:00,223: Начало обработки URL: https://www.wildberries.ru/catalog/283100508/detail.aspx
+2025-06-04 18:25:03,763: Успешно: https://www.wildberries.ru/catalog/283100508/detail.aspx - Маска для окрашенных волос с кератином, 250мл
+2025-06-04 18:25:04,446: Начало обработки URL: https://www.wildberries.ru/catalog/348692084/detail.aspx
+2025-06-04 18:25:08,525: Успешно: https://www.wildberries.ru/catalog/348692084/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 18:25:09,037: Начало обработки URL: https://www.wildberries.ru/catalog/95519578/detail.aspx
+2025-06-04 18:25:11,417: Успешно: https://www.wildberries.ru/catalog/95519578/detail.aspx - Восстанавливающая маска для своих и наращенных волос
+2025-06-04 18:25:12,058: Начало обработки URL: https://www.wildberries.ru/catalog/349565203/detail.aspx
+2025-06-04 18:25:14,537: Успешно: https://www.wildberries.ru/catalog/349565203/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:25:15,686: Начало обработки URL: https://www.wildberries.ru/catalog/372593002/detail.aspx
+2025-06-04 18:25:18,542: Успешно: https://www.wildberries.ru/catalog/372593002/detail.aspx - Маска для волос с кератином 350 мл
+2025-06-04 18:25:19,428: Начало обработки URL: https://www.wildberries.ru/catalog/102141007/detail.aspx
+2025-06-04 18:25:22,908: Успешно: https://www.wildberries.ru/catalog/102141007/detail.aspx - Маска для восстановления волос, несмываемая 100мл
+2025-06-04 18:25:23,768: Начало обработки URL: https://www.wildberries.ru/catalog/259364235/detail.aspx
+2025-06-04 18:25:26,345: Успешно: https://www.wildberries.ru/catalog/259364235/detail.aspx - Маска для волос с кератином 500 мл
+2025-06-04 18:25:27,224: Начало обработки URL: https://www.wildberries.ru/catalog/312834266/detail.aspx
+2025-06-04 18:25:29,783: Успешно: https://www.wildberries.ru/catalog/312834266/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:25:30,563: Начало обработки URL: https://www.wildberries.ru/catalog/175520907/detail.aspx
+2025-06-04 18:25:33,806: Успешно: https://www.wildberries.ru/catalog/175520907/detail.aspx - Маска- интенсивный уход с кератином, 200 мл
+2025-06-04 18:25:34,380: Начало обработки URL: https://www.wildberries.ru/catalog/203589131/detail.aspx
+2025-06-04 18:25:38,560: Успешно: https://www.wildberries.ru/catalog/203589131/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 18:25:39,325: Начало обработки URL: https://www.wildberries.ru/catalog/219887490/detail.aspx
+2025-06-04 18:25:43,235: Успешно: https://www.wildberries.ru/catalog/219887490/detail.aspx - Маска для волос с кератином восстанавливающая Keratin
+2025-06-04 18:25:44,313: Начало обработки URL: https://www.wildberries.ru/catalog/353185955/detail.aspx
+2025-06-04 18:25:47,858: Успешно: https://www.wildberries.ru/catalog/353185955/detail.aspx - Маска для волос с кератином профессиональная 1000 мл
+2025-06-04 18:25:48,571: Начало обработки URL: https://www.wildberries.ru/catalog/406979186/detail.aspx
+2025-06-04 18:25:51,268: Успешно: https://www.wildberries.ru/catalog/406979186/detail.aspx - маска для волос с кератином
+2025-06-04 18:25:52,221: Начало обработки URL: https://www.wildberries.ru/catalog/115919145/detail.aspx
+2025-06-04 18:25:55,364: Успешно: https://www.wildberries.ru/catalog/115919145/detail.aspx - Маска для волос увлажняющая восстанавливающая разглаживающая
+2025-06-04 18:25:55,950: Начало обработки URL: https://www.wildberries.ru/catalog/204549673/detail.aspx
+2025-06-04 18:25:59,781: Успешно: https://www.wildberries.ru/catalog/204549673/detail.aspx - Маска для волос с кератином
+2025-06-04 18:26:00,740: Начало обработки URL: https://www.wildberries.ru/catalog/63828168/detail.aspx
+2025-06-04 18:26:04,114: Успешно: https://www.wildberries.ru/catalog/63828168/detail.aspx - Маска для волос увлажняющая питательная с кератином 270 мл
+2025-06-04 18:26:05,155: Начало обработки URL: https://www.wildberries.ru/catalog/422561186/detail.aspx
+2025-06-04 18:26:08,735: Успешно: https://www.wildberries.ru/catalog/422561186/detail.aspx - Маска для волос увлажняющая восстанавливающая с кератином
+2025-06-04 18:26:09,750: Начало обработки URL: https://www.wildberries.ru/catalog/242808679/detail.aspx
+2025-06-04 18:26:12,557: Успешно: https://www.wildberries.ru/catalog/242808679/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:26:13,561: Начало обработки URL: https://www.wildberries.ru/catalog/399215051/detail.aspx
+2025-06-04 18:26:17,667: Успешно: https://www.wildberries.ru/catalog/399215051/detail.aspx - Маска для волос питательная с кератином 250 мл
+2025-06-04 18:26:18,807: Начало обработки URL: https://www.wildberries.ru/catalog/223526153/detail.aspx
+2025-06-04 18:26:22,300: Успешно: https://www.wildberries.ru/catalog/223526153/detail.aspx - Маска для волос Керапластика, Гиалурон + Коллаген, 180 мл
+2025-06-04 18:26:23,613: Начало обработки URL: https://www.wildberries.ru/catalog/378195739/detail.aspx
+2025-06-04 18:26:26,382: Успешно: https://www.wildberries.ru/catalog/378195739/detail.aspx - Профессиональная маска для волос с кератином total repair
+2025-06-04 18:26:27,215: Начало обработки URL: https://www.wildberries.ru/catalog/271522227/detail.aspx
+2025-06-04 18:26:30,327: Успешно: https://www.wildberries.ru/catalog/271522227/detail.aspx - Био маска для питания всех типов волос кератиновая - 500 мл
+2025-06-04 18:26:31,625: Начало обработки URL: https://www.wildberries.ru/catalog/410233496/detail.aspx
+2025-06-04 18:26:34,191: Успешно: https://www.wildberries.ru/catalog/410233496/detail.aspx - Профессиональная маска для восстановления волос
+2025-06-04 18:26:35,182: Начало обработки URL: https://www.wildberries.ru/catalog/178675293/detail.aspx
+2025-06-04 18:26:37,670: Успешно: https://www.wildberries.ru/catalog/178675293/detail.aspx - Бессульфатная протеиновая маска для волос, 250 мл
+2025-06-04 18:26:39,040: Начало обработки URL: https://www.wildberries.ru/catalog/399224008/detail.aspx
+2025-06-04 18:26:42,504: Успешно: https://www.wildberries.ru/catalog/399224008/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:26:43,400: Начало обработки URL: https://www.wildberries.ru/catalog/331907612/detail.aspx
+2025-06-04 18:26:46,288: Успешно: https://www.wildberries.ru/catalog/331907612/detail.aspx - Маска для волос с кератином 750 мл Kapous
+2025-06-04 18:26:47,062: Начало обработки URL: https://www.wildberries.ru/catalog/39401882/detail.aspx
+2025-06-04 18:26:49,748: Успешно: https://www.wildberries.ru/catalog/39401882/detail.aspx - Увлажняющая маска для волос с кератином
+2025-06-04 18:26:51,160: Начало обработки URL: https://www.wildberries.ru/catalog/428675545/detail.aspx
+2025-06-04 18:26:53,872: Успешно: https://www.wildberries.ru/catalog/428675545/detail.aspx - Маска для волос с кератином восстанавливающая увлажняющая
+2025-06-04 18:26:55,177: Начало обработки URL: https://www.wildberries.ru/catalog/193565424/detail.aspx
+2025-06-04 18:26:57,884: Успешно: https://www.wildberries.ru/catalog/193565424/detail.aspx - Маска для волос кератиновая увлажняющая восстанавливающая
+2025-06-04 18:26:58,433: Начало обработки URL: https://www.wildberries.ru/catalog/263371273/detail.aspx
+2025-06-04 18:27:01,595: Успешно: https://www.wildberries.ru/catalog/263371273/detail.aspx - Кератиновая маска для волос Восстановление 350 мл
+2025-06-04 18:27:02,755: Начало обработки URL: https://www.wildberries.ru/catalog/297336015/detail.aspx
+2025-06-04 18:27:06,545: Успешно: https://www.wildberries.ru/catalog/297336015/detail.aspx - Keratin Mask маска для волос
+2025-06-04 18:27:07,638: Начало обработки URL: https://www.wildberries.ru/catalog/280540719/detail.aspx
+2025-06-04 18:27:10,140: Успешно: https://www.wildberries.ru/catalog/280540719/detail.aspx - Маска для волос SECRETS восстанавливающая, 275 мл
+2025-06-04 18:27:10,770: Начало обработки URL: https://www.wildberries.ru/catalog/403275322/detail.aspx
+2025-06-04 18:27:14,954: Успешно: https://www.wildberries.ru/catalog/403275322/detail.aspx - Маска для волос с кератином Total Repair
+2025-06-04 18:27:15,790: Начало обработки URL: https://www.wildberries.ru/catalog/398579852/detail.aspx
+2025-06-04 18:27:19,091: Успешно: https://www.wildberries.ru/catalog/398579852/detail.aspx - Кератиновая маска "Восстановление и гладкость волос" (2шт)
+2025-06-04 18:27:19,743: Начало обработки URL: https://www.wildberries.ru/catalog/199412596/detail.aspx
+2025-06-04 18:27:22,044: Успешно: https://www.wildberries.ru/catalog/199412596/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:27:22,996: Начало обработки URL: https://www.wildberries.ru/catalog/259276825/detail.aspx
+2025-06-04 18:27:26,568: Успешно: https://www.wildberries.ru/catalog/259276825/detail.aspx - Маска для волос сухих и поврежденных восстанавливающая
+2025-06-04 18:27:27,382: Начало обработки URL: https://www.wildberries.ru/catalog/94681842/detail.aspx
+2025-06-04 18:27:31,079: Успешно: https://www.wildberries.ru/catalog/94681842/detail.aspx - Маска реанимация волос уход с кератином и гиалуроном, 900 мл
+2025-06-04 18:27:32,037: Начало обработки URL: https://www.wildberries.ru/catalog/224934858/detail.aspx
+2025-06-04 18:27:36,182: Успешно: https://www.wildberries.ru/catalog/224934858/detail.aspx - Маска бальзам для волос питательная
+2025-06-04 18:27:37,168: Начало обработки URL: https://www.wildberries.ru/catalog/222304039/detail.aspx
+2025-06-04 18:27:40,664: Успешно: https://www.wildberries.ru/catalog/222304039/detail.aspx - Маска для волос Восстановление, 200 мл
+2025-06-04 18:27:41,244: Начало обработки URL: https://www.wildberries.ru/catalog/422120558/detail.aspx
+2025-06-04 18:27:44,159: Успешно: https://www.wildberries.ru/catalog/422120558/detail.aspx - Маска для волос
+2025-06-04 18:27:45,252: Начало обработки URL: https://www.wildberries.ru/catalog/10436195/detail.aspx
+2025-06-04 18:27:47,846: Успешно: https://www.wildberries.ru/catalog/10436195/detail.aspx - Маска профессиональная для волос с кератином 350 мл
+2025-06-04 18:27:48,960: Начало обработки URL: https://www.wildberries.ru/catalog/195515245/detail.aspx
+2025-06-04 18:27:52,856: Успешно: https://www.wildberries.ru/catalog/195515245/detail.aspx - Маска для волос с кератином профессиональная
+2025-06-04 18:27:54,149: Начало обработки URL: https://www.wildberries.ru/catalog/207976979/detail.aspx
+2025-06-04 18:27:57,495: Успешно: https://www.wildberries.ru/catalog/207976979/detail.aspx - Маска Keraless для волос с кератином 200мл
+2025-06-04 18:27:58,251: Начало обработки URL: https://www.wildberries.ru/catalog/409686211/detail.aspx
+2025-06-04 18:28:01,198: Успешно: https://www.wildberries.ru/catalog/409686211/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:28:02,527: Начало обработки URL: https://www.wildberries.ru/catalog/301777599/detail.aspx
+2025-06-04 18:28:06,003: Успешно: https://www.wildberries.ru/catalog/301777599/detail.aspx - Маска для волос 500мл
+2025-06-04 18:28:07,077: Начало обработки URL: https://www.wildberries.ru/catalog/338502181/detail.aspx
+2025-06-04 18:28:09,720: Успешно: https://www.wildberries.ru/catalog/338502181/detail.aspx - Маска для роста волос увлажняющая восстанавливающая
+2025-06-04 18:28:11,221: Начало обработки URL: https://www.wildberries.ru/catalog/391309670/detail.aspx
+2025-06-04 18:28:14,585: Успешно: https://www.wildberries.ru/catalog/391309670/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:28:15,320: Начало обработки URL: https://www.wildberries.ru/catalog/434189763/detail.aspx
+2025-06-04 18:28:18,114: Успешно: https://www.wildberries.ru/catalog/434189763/detail.aspx - Маска для волос кератиновая профессиональный бальзам
+2025-06-04 18:28:19,286: Начало обработки URL: https://www.wildberries.ru/catalog/288082935/detail.aspx
+2025-06-04 18:28:22,812: Успешно: https://www.wildberries.ru/catalog/288082935/detail.aspx - Маска для волос Reconstruction Protein, 100 мл
+2025-06-04 18:28:23,775: Начало обработки URL: https://www.wildberries.ru/catalog/210360767/detail.aspx
+2025-06-04 18:28:27,851: Успешно: https://www.wildberries.ru/catalog/210360767/detail.aspx - Маска для волос профессиональная
+2025-06-04 18:28:28,550: Начало обработки URL: https://www.wildberries.ru/catalog/43818605/detail.aspx
+2025-06-04 18:28:31,199: Успешно: https://www.wildberries.ru/catalog/43818605/detail.aspx - Увлажняющая маска для волос с кератином, 500 мл
+2025-06-04 18:28:32,252: Начало обработки URL: https://www.wildberries.ru/catalog/220219594/detail.aspx
+2025-06-04 18:28:34,841: Успешно: https://www.wildberries.ru/catalog/220219594/detail.aspx - Aravia Professional Маска Кератиновая Для Волос 550мл
+2025-06-04 18:28:35,731: Начало обработки URL: https://www.wildberries.ru/catalog/337137573/detail.aspx
+2025-06-04 18:28:39,891: Успешно: https://www.wildberries.ru/catalog/337137573/detail.aspx - Маска для волос с кератином для восстановления
+2025-06-04 18:28:40,749: Начало обработки URL: https://www.wildberries.ru/catalog/151675735/detail.aspx
+2025-06-04 18:28:43,924: Успешно: https://www.wildberries.ru/catalog/151675735/detail.aspx - Профессиональная увлажняющая маска для волос с коллагеном
+2025-06-04 18:28:44,709: Начало обработки URL: https://www.wildberries.ru/catalog/305314279/detail.aspx
+2025-06-04 18:28:48,683: Успешно: https://www.wildberries.ru/catalog/305314279/detail.aspx - Маска для волос с кератином восстанавливающая 250 мл
+2025-06-04 18:28:49,804: Начало обработки URL: https://www.wildberries.ru/catalog/110263170/detail.aspx
+2025-06-04 18:28:52,619: Успешно: https://www.wildberries.ru/catalog/110263170/detail.aspx - Маска для волос восстанавливающая профессиональная
+2025-06-04 18:28:53,377: Начало обработки URL: https://www.wildberries.ru/catalog/432805864/detail.aspx
+2025-06-04 18:28:57,089: Успешно: https://www.wildberries.ru/catalog/432805864/detail.aspx - Маска для волос с коллагеном увлажняющая
+2025-06-04 18:28:58,483: Начало обработки URL: https://www.wildberries.ru/catalog/265471293/detail.aspx
+2025-06-04 18:29:01,903: Успешно: https://www.wildberries.ru/catalog/265471293/detail.aspx - Маска шапка для волос с кератином гиалуроном
+2025-06-04 18:29:02,900: Начало обработки URL: https://www.wildberries.ru/catalog/331890632/detail.aspx
+2025-06-04 18:29:05,527: Успешно: https://www.wildberries.ru/catalog/331890632/detail.aspx - Профессиональная маска для волос увлажнение и восстановление
+2025-06-04 18:29:06,129: Начало обработки URL: https://www.wildberries.ru/catalog/389193178/detail.aspx
+2025-06-04 18:29:09,649: Успешно: https://www.wildberries.ru/catalog/389193178/detail.aspx - Маска для волос с кератином Total Repair Ruw
+2025-06-04 18:29:10,193: Начало обработки URL: https://www.wildberries.ru/catalog/240451517/detail.aspx
+2025-06-04 18:29:13,108: Успешно: https://www.wildberries.ru/catalog/240451517/detail.aspx - Кератин Маска 1 л.+Шампунь 1 л.+Спрей 200мл.
+2025-06-04 18:29:14,109: Начало обработки URL: https://www.wildberries.ru/catalog/417488574/detail.aspx
+2025-06-04 18:29:18,296: Успешно: https://www.wildberries.ru/catalog/417488574/detail.aspx - Корейская маска для волос
+2025-06-04 18:29:19,677: Начало обработки URL: https://www.wildberries.ru/catalog/13601706/detail.aspx
+2025-06-04 18:29:22,519: Успешно: https://www.wildberries.ru/catalog/13601706/detail.aspx - Профессиональная увлажняющая маска для волос с коллагеном
+2025-06-04 18:29:24,003: Начало обработки URL: https://www.wildberries.ru/catalog/187361092/detail.aspx
+2025-06-04 18:29:26,618: Успешно: https://www.wildberries.ru/catalog/187361092/detail.aspx - Маска для волос с кератином Гиалуроновое заполнение 500мл
+2025-06-04 18:29:27,517: Начало обработки URL: https://www.wildberries.ru/catalog/311859843/detail.aspx
+2025-06-04 18:29:31,568: Успешно: https://www.wildberries.ru/catalog/311859843/detail.aspx - Маска для волос натуральная с кератином
+2025-06-04 18:29:32,981: Начало обработки URL: https://www.wildberries.ru/catalog/99816878/detail.aspx
+2025-06-04 18:29:36,360: Успешно: https://www.wildberries.ru/catalog/99816878/detail.aspx - Маска для волос питательная CAROLINA
+2025-06-04 18:29:36,913: Начало обработки URL: https://www.wildberries.ru/catalog/220076847/detail.aspx
+2025-06-04 18:29:40,120: Успешно: https://www.wildberries.ru/catalog/220076847/detail.aspx - Маска-кератин с натуральным йогуртом, 1000мл
+2025-06-04 18:29:41,043: Начало обработки URL: https://www.wildberries.ru/catalog/152980887/detail.aspx
+2025-06-04 18:29:44,571: Успешно: https://www.wildberries.ru/catalog/152980887/detail.aspx - Маска для волос профессиональная Happy Hair Keratin Mask
+2025-06-04 18:29:45,493: Начало обработки URL: https://www.wildberries.ru/catalog/400874895/detail.aspx
+2025-06-04 18:29:48,619: Успешно: https://www.wildberries.ru/catalog/400874895/detail.aspx - Профессиональная увлажняющая маска с кератином
+2025-06-04 18:29:50,048: Начало обработки URL: https://www.wildberries.ru/catalog/243754453/detail.aspx
+2025-06-04 18:29:53,697: Успешно: https://www.wildberries.ru/catalog/243754453/detail.aspx - Маска для всех типов волос ГЛУБОКОЕ УВЛАЖНЕНИЕ с кератином
+2025-06-04 18:29:54,259: Начало обработки URL: https://www.wildberries.ru/catalog/396724519/detail.aspx
+2025-06-04 18:29:57,304: Успешно: https://www.wildberries.ru/catalog/396724519/detail.aspx - Маска для волос Perfect Care K Keratin 3in1, 800 г
+2025-06-04 18:29:58,329: Начало обработки URL: https://www.wildberries.ru/catalog/396445740/detail.aspx
+2025-06-04 18:30:00,785: Успешно: https://www.wildberries.ru/catalog/396445740/detail.aspx - Маска для волос с кератином
+2025-06-04 18:30:01,632: Начало обработки URL: https://www.wildberries.ru/catalog/348693573/detail.aspx
+2025-06-04 18:30:05,012: Успешно: https://www.wildberries.ru/catalog/348693573/detail.aspx - Маска для волос питательная с кератином и пептидами 250 мл
+2025-06-04 18:30:05,554: Начало обработки URL: https://www.wildberries.ru/catalog/212785936/detail.aspx
+2025-06-04 18:30:08,392: Успешно: https://www.wildberries.ru/catalog/212785936/detail.aspx - Маска для волос кератиновая для увлажнения
+2025-06-04 18:30:09,492: Начало обработки URL: https://www.wildberries.ru/catalog/321388983/detail.aspx
+2025-06-04 18:30:11,770: Успешно: https://www.wildberries.ru/catalog/321388983/detail.aspx - Маска для волос Прелесть с кератином 500 мл.
+2025-06-04 18:30:12,934: Начало обработки URL: https://www.wildberries.ru/catalog/161856698/detail.aspx
+2025-06-04 18:30:15,947: Успешно: https://www.wildberries.ru/catalog/161856698/detail.aspx - Маска для волос восстанавливающая и укрепляющая с Кератином
+2025-06-04 18:30:17,256: Начало обработки URL: https://www.wildberries.ru/catalog/260906397/detail.aspx
+2025-06-04 18:30:20,376: Успешно: https://www.wildberries.ru/catalog/260906397/detail.aspx - Маска для волос Tree City Масло Ши и кератины, 750 мл
+2025-06-04 18:30:21,240: Начало обработки URL: https://www.wildberries.ru/catalog/219605879/detail.aspx
+2025-06-04 18:30:23,539: Успешно: https://www.wildberries.ru/catalog/219605879/detail.aspx - Маска для волос восстанавливающая эффект ламинирования
+2025-06-04 18:30:24,842: Начало обработки URL: https://www.wildberries.ru/catalog/389754997/detail.aspx
+2025-06-04 18:30:28,373: Успешно: https://www.wildberries.ru/catalog/389754997/detail.aspx - Маска для волос с кератином
+2025-06-04 18:30:29,698: Начало обработки URL: https://www.wildberries.ru/catalog/416457221/detail.aspx
+2025-06-04 18:30:32,764: Успешно: https://www.wildberries.ru/catalog/416457221/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:30:34,226: Начало обработки URL: https://www.wildberries.ru/catalog/429240345/detail.aspx
+2025-06-04 18:30:36,909: Успешно: https://www.wildberries.ru/catalog/429240345/detail.aspx - маска кератиновая для поврежденных волос фаберлик
+2025-06-04 18:30:37,498: Начало обработки URL: https://www.wildberries.ru/catalog/353757777/detail.aspx
+2025-06-04 18:30:40,030: Успешно: https://www.wildberries.ru/catalog/353757777/detail.aspx - Маска для волос профессиональная
+2025-06-04 18:30:41,318: Начало обработки URL: https://www.wildberries.ru/catalog/12100824/detail.aspx
+2025-06-04 18:30:44,338: Успешно: https://www.wildberries.ru/catalog/12100824/detail.aspx - Маска KERALESS. Для насыщения кератином поврежденных волос
+2025-06-04 18:30:45,742: Начало обработки URL: https://www.wildberries.ru/catalog/323283323/detail.aspx
+2025-06-04 18:30:48,417: Успешно: https://www.wildberries.ru/catalog/323283323/detail.aspx - Бессульфатная маска с кератином для волос №1 "Natural"
+2025-06-04 18:30:49,124: Начало обработки URL: https://www.wildberries.ru/catalog/142952511/detail.aspx
+2025-06-04 18:30:51,431: Успешно: https://www.wildberries.ru/catalog/142952511/detail.aspx - Маска для волос с кератином профессиональная
+2025-06-04 18:30:52,896: Начало обработки URL: https://www.wildberries.ru/catalog/387085445/detail.aspx
+2025-06-04 18:30:55,545: Нет ключевых данных: https://www.wildberries.ru/catalog/387085445/detail.aspx - Product name and price not found
+2025-06-04 18:30:56,641: Начало обработки URL: https://www.wildberries.ru/catalog/417874570/detail.aspx
+2025-06-04 18:30:59,847: Успешно: https://www.wildberries.ru/catalog/417874570/detail.aspx - Маска для волос с аргановым маслом и кератином
+2025-06-04 18:31:00,480: Начало обработки URL: https://www.wildberries.ru/catalog/391316170/detail.aspx
+2025-06-04 18:31:02,784: Успешно: https://www.wildberries.ru/catalog/391316170/detail.aspx - Маска восстанавливающая с кератином
+2025-06-04 18:31:03,359: Начало обработки URL: https://www.wildberries.ru/catalog/173155716/detail.aspx
+2025-06-04 18:31:05,956: Успешно: https://www.wildberries.ru/catalog/173155716/detail.aspx - Маска для волос Гиалурон + коллаген Восстанавливающая 180мл
+2025-06-04 18:31:06,803: Начало обработки URL: https://www.wildberries.ru/catalog/333605669/detail.aspx
+2025-06-04 18:31:10,413: Успешно: https://www.wildberries.ru/catalog/333605669/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:31:11,901: Начало обработки URL: https://www.wildberries.ru/catalog/219519727/detail.aspx
+2025-06-04 18:31:15,659: Успешно: https://www.wildberries.ru/catalog/219519727/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:31:16,935: Начало обработки URL: https://www.wildberries.ru/catalog/64752878/detail.aspx
+2025-06-04 18:31:20,158: Успешно: https://www.wildberries.ru/catalog/64752878/detail.aspx - Keratin Маска для волос с кератином увлажняющая 1литр.
+2025-06-04 18:31:21,023: Начало обработки URL: https://www.wildberries.ru/catalog/376503966/detail.aspx
+2025-06-04 18:31:23,958: Успешно: https://www.wildberries.ru/catalog/376503966/detail.aspx - Маска с кератином для восстановления волос
+2025-06-04 18:31:24,731: Начало обработки URL: https://www.wildberries.ru/catalog/225690960/detail.aspx
+2025-06-04 18:31:28,575: Успешно: https://www.wildberries.ru/catalog/225690960/detail.aspx - Маска кератина для поврежденных волос «Умный кератин»
+2025-06-04 18:31:29,903: Начало обработки URL: https://www.wildberries.ru/catalog/248475904/detail.aspx
+2025-06-04 18:31:32,166: Успешно: https://www.wildberries.ru/catalog/248475904/detail.aspx - Кератиновая маска для волос 250 мл Il Salone Milano
+2025-06-04 18:31:33,523: Начало обработки URL: https://www.wildberries.ru/catalog/362340372/detail.aspx
+2025-06-04 18:31:36,395: Успешно: https://www.wildberries.ru/catalog/362340372/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:31:37,421: Начало обработки URL: https://www.wildberries.ru/catalog/265869283/detail.aspx
+2025-06-04 18:31:39,766: Успешно: https://www.wildberries.ru/catalog/265869283/detail.aspx - Профессиональная кератиновая маска для волос 500 мл
+2025-06-04 18:31:40,355: Начало обработки URL: https://www.wildberries.ru/catalog/44491923/detail.aspx
+2025-06-04 18:31:42,690: Успешно: https://www.wildberries.ru/catalog/44491923/detail.aspx - Маска для волос восстанавливающая MY GOLOVA PERFECT HAIR
+2025-06-04 18:31:43,865: Начало обработки URL: https://www.wildberries.ru/catalog/3580257/detail.aspx
+2025-06-04 18:31:46,303: Успешно: https://www.wildberries.ru/catalog/3580257/detail.aspx - Маска для волос несмываемая увлажняющая защитная с кератином
+2025-06-04 18:31:47,740: Начало обработки URL: https://www.wildberries.ru/catalog/36127699/detail.aspx
+2025-06-04 18:31:51,079: Успешно: https://www.wildberries.ru/catalog/36127699/detail.aspx - Маска для волос с кератином профессиональная увлажняющая
+2025-06-04 18:31:51,762: Начало обработки URL: https://www.wildberries.ru/catalog/346915854/detail.aspx
+2025-06-04 18:31:55,451: Успешно: https://www.wildberries.ru/catalog/346915854/detail.aspx - Маска для волос с кератином увлажняющая и восстанавливающая
+2025-06-04 18:31:56,030: Начало обработки URL: https://www.wildberries.ru/catalog/198427703/detail.aspx
+2025-06-04 18:31:59,632: Успешно: https://www.wildberries.ru/catalog/198427703/detail.aspx - Маска для волос профессиональная с кератином
+2025-06-04 18:32:00,330: Начало обработки URL: https://www.wildberries.ru/catalog/189448421/detail.aspx
+2025-06-04 18:32:03,424: Успешно: https://www.wildberries.ru/catalog/189448421/detail.aspx - Маска для волос восстанавливающая, кератин и мед
+2025-06-04 18:32:04,257: Начало обработки URL: https://www.wildberries.ru/catalog/338519011/detail.aspx
+2025-06-04 18:32:07,653: Успешно: https://www.wildberries.ru/catalog/338519011/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:32:08,244: Начало обработки URL: https://www.wildberries.ru/catalog/312971107/detail.aspx
+2025-06-04 18:32:12,380: Успешно: https://www.wildberries.ru/catalog/312971107/detail.aspx - Маска для волос с коллагеном 500мл
+2025-06-04 18:32:13,379: Начало обработки URL: https://www.wildberries.ru/catalog/355869615/detail.aspx
+2025-06-04 18:32:16,048: Успешно: https://www.wildberries.ru/catalog/355869615/detail.aspx - Маска для волос против перхоти, с кератином, 250мл
+2025-06-04 18:32:16,841: Начало обработки URL: https://www.wildberries.ru/catalog/413697868/detail.aspx
+2025-06-04 18:32:20,543: Успешно: https://www.wildberries.ru/catalog/413697868/detail.aspx - Восстанавливающая маска для волос с кератином 250 мл
+2025-06-04 18:32:21,918: Начало обработки URL: https://www.wildberries.ru/catalog/344875058/detail.aspx
+2025-06-04 18:32:24,940: Успешно: https://www.wildberries.ru/catalog/344875058/detail.aspx - Маска для волос увлажняющая с кератином
+2025-06-04 18:32:26,176: Начало обработки URL: https://www.wildberries.ru/catalog/412100963/detail.aspx
+2025-06-04 18:32:28,580: Успешно: https://www.wildberries.ru/catalog/412100963/detail.aspx - Маска для восстановления волос
+2025-06-04 18:32:29,123: Начало обработки URL: https://www.wildberries.ru/catalog/423498979/detail.aspx
+2025-06-04 18:32:33,259: Успешно: https://www.wildberries.ru/catalog/423498979/detail.aspx - Маска для волос увлажняющая восстанавливающая с кератином
+2025-06-04 18:32:34,483: Начало обработки URL: https://www.wildberries.ru/catalog/272536045/detail.aspx
+2025-06-04 18:32:37,840: Успешно: https://www.wildberries.ru/catalog/272536045/detail.aspx - Восстанавливающая маска "HAIR REPAIR MASK", 1000 мл
+2025-06-04 18:32:38,757: Начало обработки URL: https://www.wildberries.ru/catalog/430633988/detail.aspx
+2025-06-04 18:32:42,678: Успешно: https://www.wildberries.ru/catalog/430633988/detail.aspx - Маска для волос с кератином увлажняющая с кокосом
+2025-06-04 18:32:43,566: Начало обработки URL: https://www.wildberries.ru/catalog/134211683/detail.aspx
+2025-06-04 18:32:47,632: Успешно: https://www.wildberries.ru/catalog/134211683/detail.aspx - маска для волос с кератином восстанавливающая для кудрявых
+2025-06-04 18:32:48,921: Начало обработки URL: https://www.wildberries.ru/catalog/320416693/detail.aspx
+2025-06-04 18:32:51,800: Успешно: https://www.wildberries.ru/catalog/320416693/detail.aspx - Маска-керапластик для волос с кератином 200 мл
+2025-06-04 18:32:53,075: Начало обработки URL: https://www.wildberries.ru/catalog/367667377/detail.aspx
+2025-06-04 18:32:56,694: Успешно: https://www.wildberries.ru/catalog/367667377/detail.aspx - Маска для волос кератиновая, восстанавливающая Penelopa
+2025-06-04 18:32:57,996: Начало обработки URL: https://www.wildberries.ru/catalog/225106530/detail.aspx
+2025-06-04 18:33:01,855: Успешно: https://www.wildberries.ru/catalog/225106530/detail.aspx - Профессиональная увлажняющая маска для волос с кератином
+2025-06-04 18:33:03,157: Начало обработки URL: https://www.wildberries.ru/catalog/325398498/detail.aspx
+2025-06-04 18:33:05,515: Успешно: https://www.wildberries.ru/catalog/325398498/detail.aspx - Маска для волос профессиональная увлажняющая
+2025-06-04 18:33:06,680: Начало обработки URL: https://www.wildberries.ru/catalog/326586729/detail.aspx
+2025-06-04 18:33:10,143: Успешно: https://www.wildberries.ru/catalog/326586729/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:33:11,159: Начало обработки URL: https://www.wildberries.ru/catalog/348692338/detail.aspx
+2025-06-04 18:33:14,403: Успешно: https://www.wildberries.ru/catalog/348692338/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:33:15,884: Начало обработки URL: https://www.wildberries.ru/catalog/269526882/detail.aspx
+2025-06-04 18:33:19,250: Успешно: https://www.wildberries.ru/catalog/269526882/detail.aspx - Маска для волос с кератином и маточным молочком
+2025-06-04 18:33:20,547: Начало обработки URL: https://www.wildberries.ru/catalog/154661598/detail.aspx
+2025-06-04 18:33:24,425: Успешно: https://www.wildberries.ru/catalog/154661598/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:33:25,454: Начало обработки URL: https://www.wildberries.ru/catalog/306439583/detail.aspx
+2025-06-04 18:33:28,972: Успешно: https://www.wildberries.ru/catalog/306439583/detail.aspx - Маска для восстановления волос с кератином Mask with keratin
+2025-06-04 18:33:29,978: Начало обработки URL: https://www.wildberries.ru/catalog/314151123/detail.aspx
+2025-06-04 18:33:32,300: Успешно: https://www.wildberries.ru/catalog/314151123/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая.
+2025-06-04 18:33:33,677: Начало обработки URL: https://www.wildberries.ru/catalog/3052451/detail.aspx
+2025-06-04 18:33:37,511: Успешно: https://www.wildberries.ru/catalog/3052451/detail.aspx - Маска для роста волос с кератином, 500мл
+2025-06-04 18:33:38,466: Начало обработки URL: https://www.wildberries.ru/catalog/162798176/detail.aspx
+2025-06-04 18:33:41,023: Успешно: https://www.wildberries.ru/catalog/162798176/detail.aspx - Увлажняющая маска для окрашенных волос, 400 мл
+2025-06-04 18:33:42,309: Начало обработки URL: https://www.wildberries.ru/catalog/348761580/detail.aspx
+2025-06-04 18:33:46,198: Успешно: https://www.wildberries.ru/catalog/348761580/detail.aspx - Маска для волос TOTAL REPAIR 350мл
+2025-06-04 18:33:47,456: Начало обработки URL: https://www.wildberries.ru/catalog/190720298/detail.aspx
+2025-06-04 18:33:49,844: Успешно: https://www.wildberries.ru/catalog/190720298/detail.aspx - Восстанавливающая маска для волос Vitalizing 300 мл
+2025-06-04 18:33:50,417: Начало обработки URL: https://www.wildberries.ru/catalog/343343165/detail.aspx
+2025-06-04 18:33:53,759: Успешно: https://www.wildberries.ru/catalog/343343165/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:33:55,036: Начало обработки URL: https://www.wildberries.ru/catalog/396440085/detail.aspx
+2025-06-04 18:33:57,298: Успешно: https://www.wildberries.ru/catalog/396440085/detail.aspx - Маска для волос с кератином
+2025-06-04 18:33:57,991: Начало обработки URL: https://www.wildberries.ru/catalog/225269431/detail.aspx
+2025-06-04 18:34:01,937: Успешно: https://www.wildberries.ru/catalog/225269431/detail.aspx - Маска для волос окрашенных и поврежденных. Корея 150мл
+2025-06-04 18:34:03,008: Начало обработки URL: https://www.wildberries.ru/catalog/117257590/detail.aspx
+2025-06-04 18:34:05,360: Успешно: https://www.wildberries.ru/catalog/117257590/detail.aspx - Маска для волос с кератином Эльсев восстанавливающая 300мл
+2025-06-04 18:34:06,540: Начало обработки URL: https://www.wildberries.ru/catalog/172314770/detail.aspx
+2025-06-04 18:34:09,848: Успешно: https://www.wildberries.ru/catalog/172314770/detail.aspx - Восстанавливающая маска с кератином для волос, 1000 мл
+2025-06-04 18:34:11,329: Начало обработки URL: https://www.wildberries.ru/catalog/81495986/detail.aspx
+2025-06-04 18:34:14,216: Успешно: https://www.wildberries.ru/catalog/81495986/detail.aspx - Профессиональная маска для волос с увлажнением
+2025-06-04 18:34:15,087: Начало обработки URL: https://www.wildberries.ru/catalog/315372914/detail.aspx
+2025-06-04 18:34:18,859: Успешно: https://www.wildberries.ru/catalog/315372914/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:34:19,500: Начало обработки URL: https://www.wildberries.ru/catalog/337296184/detail.aspx
+2025-06-04 18:34:22,187: Успешно: https://www.wildberries.ru/catalog/337296184/detail.aspx - Маска для волос восстанавливающая Keratin&Honey, 500мл
+2025-06-04 18:34:22,859: Начало обработки URL: https://www.wildberries.ru/catalog/336045184/detail.aspx
+2025-06-04 18:34:25,332: Успешно: https://www.wildberries.ru/catalog/336045184/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:34:26,186: Начало обработки URL: https://www.wildberries.ru/catalog/150970312/detail.aspx
+2025-06-04 18:34:29,007: Успешно: https://www.wildberries.ru/catalog/150970312/detail.aspx - Маска для волос увлажняющая Happy Hair KST ( KERASIST )
+2025-06-04 18:34:30,214: Начало обработки URL: https://www.wildberries.ru/catalog/383665133/detail.aspx
+2025-06-04 18:34:33,904: Успешно: https://www.wildberries.ru/catalog/383665133/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:34:35,218: Начало обработки URL: https://www.wildberries.ru/catalog/250081203/detail.aspx
+2025-06-04 18:34:38,489: Успешно: https://www.wildberries.ru/catalog/250081203/detail.aspx - Восстанавливающая маска для глубокого питания волос мини
+2025-06-04 18:34:39,274: Начало обработки URL: https://www.wildberries.ru/catalog/311860733/detail.aspx
+2025-06-04 18:34:42,189: Успешно: https://www.wildberries.ru/catalog/311860733/detail.aspx - Маска для волос восстанавливающая увлажняющая питательная
+2025-06-04 18:34:42,934: Начало обработки URL: https://www.wildberries.ru/catalog/306868511/detail.aspx
+2025-06-04 18:34:46,554: Успешно: https://www.wildberries.ru/catalog/306868511/detail.aspx - Маска для волос восстанавливающая профессиональная , 400 мл
+2025-06-04 18:34:47,270: Начало обработки URL: https://www.wildberries.ru/catalog/418984512/detail.aspx
+2025-06-04 18:34:50,399: Успешно: https://www.wildberries.ru/catalog/418984512/detail.aspx - Маска для волос профессиональная, с кератином увлажняющая
+2025-06-04 18:34:51,260: Начало обработки URL: https://www.wildberries.ru/catalog/338416498/detail.aspx
+2025-06-04 18:34:55,316: Успешно: https://www.wildberries.ru/catalog/338416498/detail.aspx - Восстанавливающая маска для волос WAXY SOS BTX Cream Mask
+2025-06-04 18:34:56,071: Начало обработки URL: https://www.wildberries.ru/catalog/188170619/detail.aspx
+2025-06-04 18:34:58,459: Успешно: https://www.wildberries.ru/catalog/188170619/detail.aspx - Alfaparf REHYDRATING FINISH Кератиновая маска для волос500мл
+2025-06-04 18:34:59,240: Начало обработки URL: https://www.wildberries.ru/catalog/188790079/detail.aspx
+2025-06-04 18:35:02,922: Успешно: https://www.wildberries.ru/catalog/188790079/detail.aspx - Маска для волос Nina Ricci L'Extase 250 мл
+2025-06-04 18:35:03,753: Начало обработки URL: https://www.wildberries.ru/catalog/259202682/detail.aspx
+2025-06-04 18:35:06,217: Успешно: https://www.wildberries.ru/catalog/259202682/detail.aspx - Питательная маска для волос с кератином 960 мл.
+2025-06-04 18:35:06,821: Начало обработки URL: https://www.wildberries.ru/catalog/399671755/detail.aspx
+2025-06-04 18:35:09,318: Успешно: https://www.wildberries.ru/catalog/399671755/detail.aspx - Маска для волос восстанавливающая с кератином, 300мл
+2025-06-04 18:35:10,029: Начало обработки URL: https://www.wildberries.ru/catalog/331686803/detail.aspx
+2025-06-04 18:35:13,662: Успешно: https://www.wildberries.ru/catalog/331686803/detail.aspx - Маска для волос увлажняющая и восстанавливающая
+2025-06-04 18:35:14,978: Начало обработки URL: https://www.wildberries.ru/catalog/183358511/detail.aspx
+2025-06-04 18:35:18,983: Успешно: https://www.wildberries.ru/catalog/183358511/detail.aspx - Маска для волос Guerlain Champs Elysees 250 мл
+2025-06-04 18:35:19,758: Начало обработки URL: https://www.wildberries.ru/catalog/224562542/detail.aspx
+2025-06-04 18:35:23,053: Успешно: https://www.wildberries.ru/catalog/224562542/detail.aspx - Маска для волос IQ Hair Увлажнение и питание
+2025-06-04 18:35:24,276: Начало обработки URL: https://www.wildberries.ru/catalog/433937068/detail.aspx
+2025-06-04 18:35:27,026: Успешно: https://www.wildberries.ru/catalog/433937068/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:35:28,433: Начало обработки URL: https://www.wildberries.ru/catalog/169011322/detail.aspx
+2025-06-04 18:35:32,530: Успешно: https://www.wildberries.ru/catalog/169011322/detail.aspx - Маска после кератина и ботокса Keratin Volume Up 250мл.
+2025-06-04 18:46:43,469: Начало обработки URL: https://www.wildberries.ru/catalog/162440103/detail.aspx
+2025-06-04 18:46:47,983: Успешно: https://www.wildberries.ru/catalog/162440103/detail.aspx - Care Keratin Smooth Mask - Маска Кератиновый комплекс 200 мл
+2025-06-04 18:46:49,399: Начало обработки URL: https://www.wildberries.ru/catalog/423331604/detail.aspx
+2025-06-04 18:46:52,483: Успешно: https://www.wildberries.ru/catalog/423331604/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:46:53,700: Начало обработки URL: https://www.wildberries.ru/catalog/265160010/detail.aspx
+2025-06-04 18:46:56,346: Успешно: https://www.wildberries.ru/catalog/265160010/detail.aspx - Маска для волос
+2025-06-04 18:46:57,700: Начало обработки URL: https://www.wildberries.ru/catalog/263371388/detail.aspx
+2025-06-04 18:47:01,883: Успешно: https://www.wildberries.ru/catalog/263371388/detail.aspx - Маска для окрашенных волос Блеск и Питание 350 мл
+2025-06-04 18:47:03,274: Начало обработки URL: https://www.wildberries.ru/catalog/200252449/detail.aspx
+2025-06-04 18:47:06,975: Успешно: https://www.wildberries.ru/catalog/200252449/detail.aspx - Маска увлажняющая для волос MIRCUT 300ml.
+2025-06-04 18:47:07,871: Начало обработки URL: https://www.wildberries.ru/catalog/21032255/detail.aspx
+2025-06-04 18:47:11,186: Успешно: https://www.wildberries.ru/catalog/21032255/detail.aspx - Маска для волос профессиональная с кератином 500 мл
+2025-06-04 18:47:11,878: Начало обработки URL: https://www.wildberries.ru/catalog/261217835/detail.aspx
+2025-06-04 18:47:16,033: Успешно: https://www.wildberries.ru/catalog/261217835/detail.aspx - Кератин LET ME BE SUPREME 500 мл.
+2025-06-04 18:47:16,987: Начало обработки URL: https://www.wildberries.ru/catalog/295900123/detail.aspx
+2025-06-04 18:47:20,869: Успешно: https://www.wildberries.ru/catalog/295900123/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 18:47:21,431: Начало обработки URL: https://www.wildberries.ru/catalog/183358409/detail.aspx
+2025-06-04 18:47:24,478: Успешно: https://www.wildberries.ru/catalog/183358409/detail.aspx - Маска для волос yves saint laurent MON PARIS 250 мл
+2025-06-04 18:47:25,232: Начало обработки URL: https://www.wildberries.ru/catalog/183358480/detail.aspx
+2025-06-04 18:47:28,254: Успешно: https://www.wildberries.ru/catalog/183358480/detail.aspx - Маска для волос LANVIN MODERN PRINCESS 250 мл
+2025-06-04 18:47:28,769: Начало обработки URL: https://www.wildberries.ru/catalog/399216488/detail.aspx
+2025-06-04 18:47:31,677: Успешно: https://www.wildberries.ru/catalog/399216488/detail.aspx - Маска для волос увлажняющая ZOOM KERATIN
+2025-06-04 18:47:33,010: Начало обработки URL: https://www.wildberries.ru/catalog/227679932/detail.aspx
+2025-06-04 18:47:37,185: Успешно: https://www.wildberries.ru/catalog/227679932/detail.aspx - Холодный ботокс маска для волос липидная восстанавливающая
+2025-06-04 18:47:38,053: Начало обработки URL: https://www.wildberries.ru/catalog/264727206/detail.aspx
+2025-06-04 18:47:41,087: Успешно: https://www.wildberries.ru/catalog/264727206/detail.aspx - Маска для поврежденных волос 150мл Eco hydro LPP
+2025-06-04 18:47:42,080: Начало обработки URL: https://www.wildberries.ru/catalog/151559885/detail.aspx
+2025-06-04 18:47:46,189: Успешно: https://www.wildberries.ru/catalog/151559885/detail.aspx - Маска для волос с кератином профессиональная, 500 мл
+2025-06-04 18:47:47,344: Начало обработки URL: https://www.wildberries.ru/catalog/348405037/detail.aspx
+2025-06-04 18:47:50,573: Успешно: https://www.wildberries.ru/catalog/348405037/detail.aspx - Маска для волос Lolane
+2025-06-04 18:47:51,630: Начало обработки URL: https://www.wildberries.ru/catalog/228347129/detail.aspx
+2025-06-04 18:47:55,411: Успешно: https://www.wildberries.ru/catalog/228347129/detail.aspx - Маска для волос 12в1 250мл
+2025-06-04 18:47:56,513: Начало обработки URL: https://www.wildberries.ru/catalog/237127723/detail.aspx
+2025-06-04 18:48:00,155: Успешно: https://www.wildberries.ru/catalog/237127723/detail.aspx - Питательная кактусовая маска для сухих волос
+2025-06-04 18:48:01,561: Начало обработки URL: https://www.wildberries.ru/catalog/183358513/detail.aspx
+2025-06-04 18:48:04,002: Успешно: https://www.wildberries.ru/catalog/183358513/detail.aspx - Маска для волос Prada Candy Leau 250 мл
+2025-06-04 18:48:04,701: Начало обработки URL: https://www.wildberries.ru/catalog/179555950/detail.aspx
+2025-06-04 18:48:07,955: Успешно: https://www.wildberries.ru/catalog/179555950/detail.aspx - Маска для волос кожи головы от выпадения волос с кератином
+2025-06-04 18:48:08,832: Начало обработки URL: https://www.wildberries.ru/catalog/298189653/detail.aspx
+2025-06-04 18:48:11,550: Успешно: https://www.wildberries.ru/catalog/298189653/detail.aspx - Восстанавливающая маска для поврежденных волос Матрикс 250мл
+2025-06-04 18:48:12,878: Начало обработки URL: https://www.wildberries.ru/catalog/315702997/detail.aspx
+2025-06-04 18:48:15,478: Успешно: https://www.wildberries.ru/catalog/315702997/detail.aspx - Маска кератиновая для питания и увлажнения волос
+2025-06-04 18:48:16,835: Начало обработки URL: https://www.wildberries.ru/catalog/434179134/detail.aspx
+2025-06-04 18:48:19,583: Успешно: https://www.wildberries.ru/catalog/434179134/detail.aspx - Маска для волос кератиновая профессиональный бальзам
+2025-06-04 18:48:20,709: Начало обработки URL: https://www.wildberries.ru/catalog/410088277/detail.aspx
+2025-06-04 18:48:23,876: Успешно: https://www.wildberries.ru/catalog/410088277/detail.aspx - Профессиональная маска для волос липиды и коллаген
+2025-06-04 18:48:25,066: Начало обработки URL: https://www.wildberries.ru/catalog/349009407/detail.aspx
+2025-06-04 18:48:27,398: Успешно: https://www.wildberries.ru/catalog/349009407/detail.aspx - Маска для волос увлажняющая восстанавливающая для роста
+2025-06-04 18:48:28,485: Начало обработки URL: https://www.wildberries.ru/catalog/233721398/detail.aspx
+2025-06-04 18:48:32,384: Успешно: https://www.wildberries.ru/catalog/233721398/detail.aspx - Маска-бальзам для волос Kerafee Night с кератином
+2025-06-04 18:48:33,414: Начало обработки URL: https://www.wildberries.ru/catalog/257693008/detail.aspx
+2025-06-04 18:48:36,115: Успешно: https://www.wildberries.ru/catalog/257693008/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:48:37,553: Начало обработки URL: https://www.wildberries.ru/catalog/366071447/detail.aspx
+2025-06-04 18:48:41,487: Успешно: https://www.wildberries.ru/catalog/366071447/detail.aspx - Маска для волос восстанавливающая увлажняющая с кератином
+2025-06-04 18:48:42,228: Начало обработки URL: https://www.wildberries.ru/catalog/300794711/detail.aspx
+2025-06-04 18:48:46,370: Успешно: https://www.wildberries.ru/catalog/300794711/detail.aspx - SP REPAIR Маска для волос 400 мл
+2025-06-04 18:48:47,017: Начало обработки URL: https://www.wildberries.ru/catalog/411737382/detail.aspx
+2025-06-04 18:48:49,206: Успешно: https://www.wildberries.ru/catalog/411737382/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:48:50,174: Начало обработки URL: https://www.wildberries.ru/catalog/325381167/detail.aspx
+2025-06-04 18:48:54,395: Успешно: https://www.wildberries.ru/catalog/325381167/detail.aspx - Маска для волос питательная с коллагеном
+2025-06-04 18:48:55,676: Начало обработки URL: https://www.wildberries.ru/catalog/267348668/detail.aspx
+2025-06-04 18:48:58,620: Успешно: https://www.wildberries.ru/catalog/267348668/detail.aspx - Маска для волос Восстановление 200мл
+2025-06-04 18:48:59,879: Начало обработки URL: https://www.wildberries.ru/catalog/183358527/detail.aspx
+2025-06-04 18:49:02,360: Успешно: https://www.wildberries.ru/catalog/183358527/detail.aspx - Маска для волос Armand Basi in Blue 250 мл
+2025-06-04 18:49:03,263: Начало обработки URL: https://www.wildberries.ru/catalog/285134691/detail.aspx
+2025-06-04 18:49:05,758: Успешно: https://www.wildberries.ru/catalog/285134691/detail.aspx - Rich Repair Маска для волос увлажняющая с кератином 200мл
+2025-06-04 18:49:07,168: Начало обработки URL: https://www.wildberries.ru/catalog/422542924/detail.aspx
+2025-06-04 18:49:09,575: Успешно: https://www.wildberries.ru/catalog/422542924/detail.aspx - Маска для здоровья и роста волос
+2025-06-04 18:49:10,824: Начало обработки URL: https://www.wildberries.ru/catalog/433889893/detail.aspx
+2025-06-04 18:49:13,945: Успешно: https://www.wildberries.ru/catalog/433889893/detail.aspx - Кератиновая маска для волос профессиональный уход у вас дома
+2025-06-04 18:49:15,094: Начало обработки URL: https://www.wildberries.ru/catalog/187962956/detail.aspx
+2025-06-04 18:49:18,399: Успешно: https://www.wildberries.ru/catalog/187962956/detail.aspx - PRO MASTER Маска регенерирующая с кератином, 1000 мл
+2025-06-04 18:49:19,211: Начало обработки URL: https://www.wildberries.ru/catalog/109643704/detail.aspx
+2025-06-04 18:49:22,948: Успешно: https://www.wildberries.ru/catalog/109643704/detail.aspx - Маска сыворотка для волос биоламинирующая
+2025-06-04 18:49:23,626: Начало обработки URL: https://www.wildberries.ru/catalog/241820673/detail.aspx
+2025-06-04 18:49:26,308: Успешно: https://www.wildberries.ru/catalog/241820673/detail.aspx - Маска для волос восстанавливающая для поврежденных волос
+2025-06-04 18:49:27,405: Начало обработки URL: https://www.wildberries.ru/catalog/413241272/detail.aspx
+2025-06-04 18:49:29,810: Успешно: https://www.wildberries.ru/catalog/413241272/detail.aspx - маска для волос Nami
+2025-06-04 18:49:30,810: Начало обработки URL: https://www.wildberries.ru/catalog/413896375/detail.aspx
+2025-06-04 18:49:33,781: Успешно: https://www.wildberries.ru/catalog/413896375/detail.aspx - Маска для волос с кератином Lamination Gloss, 220мл
+2025-06-04 18:49:35,054: Начало обработки URL: https://www.wildberries.ru/catalog/283100508/detail.aspx
+2025-06-04 18:49:37,709: Успешно: https://www.wildberries.ru/catalog/283100508/detail.aspx - Маска для окрашенных волос с кератином, 250мл
+2025-06-04 18:49:38,387: Начало обработки URL: https://www.wildberries.ru/catalog/349565203/detail.aspx
+2025-06-04 18:49:40,790: Успешно: https://www.wildberries.ru/catalog/349565203/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:49:41,691: Начало обработки URL: https://www.wildberries.ru/catalog/372593002/detail.aspx
+2025-06-04 18:49:45,549: Успешно: https://www.wildberries.ru/catalog/372593002/detail.aspx - Маска для волос с кератином 350 мл
+2025-06-04 18:49:46,629: Начало обработки URL: https://www.wildberries.ru/catalog/312834266/detail.aspx
+2025-06-04 18:49:49,822: Успешно: https://www.wildberries.ru/catalog/312834266/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:49:50,904: Начало обработки URL: https://www.wildberries.ru/catalog/169123775/detail.aspx
+2025-06-04 18:49:53,987: Успешно: https://www.wildberries.ru/catalog/169123775/detail.aspx - Маска восстановление для сухих, поврежденных волос 500 мл
+2025-06-04 18:49:55,427: Начало обработки URL: https://www.wildberries.ru/catalog/336223101/detail.aspx
+2025-06-04 18:49:57,771: Успешно: https://www.wildberries.ru/catalog/336223101/detail.aspx - Набор масок для волос профессиональные с кератином 2 в 1
+2025-06-04 18:49:59,066: Начало обработки URL: https://www.wildberries.ru/catalog/115919145/detail.aspx
+2025-06-04 18:50:02,055: Успешно: https://www.wildberries.ru/catalog/115919145/detail.aspx - Маска для волос увлажняющая восстанавливающая разглаживающая
+2025-06-04 18:50:03,544: Начало обработки URL: https://www.wildberries.ru/catalog/265462748/detail.aspx
+2025-06-04 18:50:06,845: Успешно: https://www.wildberries.ru/catalog/265462748/detail.aspx - Восстанавливающая маска для волос с пантенолом
+2025-06-04 18:50:07,691: Начало обработки URL: https://www.wildberries.ru/catalog/63828168/detail.aspx
+2025-06-04 18:50:11,892: Успешно: https://www.wildberries.ru/catalog/63828168/detail.aspx - Маска для волос увлажняющая питательная с кератином 270 мл
+2025-06-04 18:50:12,699: Начало обработки URL: https://www.wildberries.ru/catalog/422561186/detail.aspx
+2025-06-04 18:50:16,343: Успешно: https://www.wildberries.ru/catalog/422561186/detail.aspx - Маска для волос увлажняющая восстанавливающая с кератином
+2025-06-04 18:50:16,920: Начало обработки URL: https://www.wildberries.ru/catalog/242808679/detail.aspx
+2025-06-04 18:50:19,603: Успешно: https://www.wildberries.ru/catalog/242808679/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:50:20,222: Начало обработки URL: https://www.wildberries.ru/catalog/223526153/detail.aspx
+2025-06-04 18:50:23,692: Успешно: https://www.wildberries.ru/catalog/223526153/detail.aspx - Маска для волос Керапластика, Гиалурон + Коллаген, 180 мл
+2025-06-04 18:50:24,509: Начало обработки URL: https://www.wildberries.ru/catalog/349383060/detail.aspx
+2025-06-04 18:50:28,054: Успешно: https://www.wildberries.ru/catalog/349383060/detail.aspx - Маска для волос глубокого действия Keratin Shot, 1000мл
+2025-06-04 18:50:29,172: Начало обработки URL: https://www.wildberries.ru/catalog/399224008/detail.aspx
+2025-06-04 18:50:32,165: Успешно: https://www.wildberries.ru/catalog/399224008/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:50:33,399: Начало обработки URL: https://www.wildberries.ru/catalog/375781557/detail.aspx
+2025-06-04 18:50:36,552: Успешно: https://www.wildberries.ru/catalog/375781557/detail.aspx - Парфюмированная маска для волос MUSK
+2025-06-04 18:50:37,781: Начало обработки URL: https://www.wildberries.ru/catalog/183358369/detail.aspx
+2025-06-04 18:50:41,223: Успешно: https://www.wildberries.ru/catalog/183358369/detail.aspx - Маска для волос Escentric Molecules Molecule 01 250 мл
+2025-06-04 18:50:42,664: Начало обработки URL: https://www.wildberries.ru/catalog/428675545/detail.aspx
+2025-06-04 18:50:46,694: Успешно: https://www.wildberries.ru/catalog/428675545/detail.aspx - Маска для волос с кератином восстанавливающая увлажняющая
+2025-06-04 18:50:47,765: Начало обработки URL: https://www.wildberries.ru/catalog/172164925/detail.aspx
+2025-06-04 18:50:50,035: Успешно: https://www.wildberries.ru/catalog/172164925/detail.aspx - Маска для волос Интенсивное питание 60 Секунд 200мл
+2025-06-04 18:50:51,391: Начало обработки URL: https://www.wildberries.ru/catalog/280540719/detail.aspx
+2025-06-04 18:50:55,066: Успешно: https://www.wildberries.ru/catalog/280540719/detail.aspx - Маска для волос SECRETS восстанавливающая, 275 мл
+2025-06-04 18:50:56,452: Начало обработки URL: https://www.wildberries.ru/catalog/323640231/detail.aspx
+2025-06-04 18:51:00,615: Успешно: https://www.wildberries.ru/catalog/323640231/detail.aspx - Маска для волос с мёдом и кератином, 850 г, питание, уход
+2025-06-04 18:51:01,549: Начало обработки URL: https://www.wildberries.ru/catalog/422120558/detail.aspx
+2025-06-04 18:51:04,958: Успешно: https://www.wildberries.ru/catalog/422120558/detail.aspx - Маска для волос
+2025-06-04 18:51:05,594: Начало обработки URL: https://www.wildberries.ru/catalog/301777599/detail.aspx
+2025-06-04 18:51:09,419: Успешно: https://www.wildberries.ru/catalog/301777599/detail.aspx - Маска для волос 500мл
+2025-06-04 18:51:10,819: Начало обработки URL: https://www.wildberries.ru/catalog/338502181/detail.aspx
+2025-06-04 18:51:14,633: Успешно: https://www.wildberries.ru/catalog/338502181/detail.aspx - Маска для роста волос увлажняющая восстанавливающая
+2025-06-04 18:51:15,961: Начало обработки URL: https://www.wildberries.ru/catalog/399211205/detail.aspx
+2025-06-04 18:51:19,610: Успешно: https://www.wildberries.ru/catalog/399211205/detail.aspx - Маска для волос липидная Корейский tondi
+2025-06-04 18:51:20,515: Начало обработки URL: https://www.wildberries.ru/catalog/434189763/detail.aspx
+2025-06-04 18:51:23,206: Успешно: https://www.wildberries.ru/catalog/434189763/detail.aspx - Маска для волос кератиновая профессиональный бальзам
+2025-06-04 18:51:24,715: Начало обработки URL: https://www.wildberries.ru/catalog/391180067/detail.aspx
+2025-06-04 18:51:27,585: Успешно: https://www.wildberries.ru/catalog/391180067/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:51:28,673: Начало обработки URL: https://www.wildberries.ru/catalog/91564010/detail.aspx
+2025-06-04 18:51:31,098: Успешно: https://www.wildberries.ru/catalog/91564010/detail.aspx - Маска для волос с кератином и протеином 500 мл
+2025-06-04 18:51:32,328: Начало обработки URL: https://www.wildberries.ru/catalog/210360767/detail.aspx
+2025-06-04 18:51:34,921: Успешно: https://www.wildberries.ru/catalog/210360767/detail.aspx - Маска для волос профессиональная
+2025-06-04 18:51:35,931: Начало обработки URL: https://www.wildberries.ru/catalog/183358428/detail.aspx
+2025-06-04 18:51:38,235: Успешно: https://www.wildberries.ru/catalog/183358428/detail.aspx - Маска для волос Aqva pour Homme Marine 250 мл
+2025-06-04 18:51:39,309: Начало обработки URL: https://www.wildberries.ru/catalog/268939692/detail.aspx
+2025-06-04 18:51:42,767: Успешно: https://www.wildberries.ru/catalog/268939692/detail.aspx - Маска для волос Восстановление+Уплотнение структуры, 300 мл
+2025-06-04 18:51:43,984: Начало обработки URL: https://www.wildberries.ru/catalog/110263170/detail.aspx
+2025-06-04 18:51:46,269: Успешно: https://www.wildberries.ru/catalog/110263170/detail.aspx - Маска для волос восстанавливающая профессиональная
+2025-06-04 18:51:47,618: Начало обработки URL: https://www.wildberries.ru/catalog/267312978/detail.aspx
+2025-06-04 18:51:50,172: Успешно: https://www.wildberries.ru/catalog/267312978/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:51:51,179: Начало обработки URL: https://www.wildberries.ru/catalog/183358560/detail.aspx
+2025-06-04 18:51:54,791: Успешно: https://www.wildberries.ru/catalog/183358560/detail.aspx - Маска для волос Amouage Sunshine 250 мл
+2025-06-04 18:51:55,903: Начало обработки URL: https://www.wildberries.ru/catalog/331882565/detail.aspx
+2025-06-04 18:51:58,374: Успешно: https://www.wildberries.ru/catalog/331882565/detail.aspx - Профессиональная маска для волос кератин и маточное молочко
+2025-06-04 18:51:59,612: Начало обработки URL: https://www.wildberries.ru/catalog/240932384/detail.aspx
+2025-06-04 18:52:02,595: Успешно: https://www.wildberries.ru/catalog/240932384/detail.aspx - Маска для обесцвеченных волос INSTANT Кератин + BADD
+2025-06-04 18:52:03,208: Начало обработки URL: https://www.wildberries.ru/catalog/388240365/detail.aspx
+2025-06-04 18:52:06,000: Успешно: https://www.wildberries.ru/catalog/388240365/detail.aspx - Балансирующая маска для сильно поврежденных волос 300 мл
+2025-06-04 18:52:07,277: Начало обработки URL: https://www.wildberries.ru/catalog/46018006/detail.aspx
+2025-06-04 18:52:11,146: Успешно: https://www.wildberries.ru/catalog/46018006/detail.aspx - Маска для волос "Увлажнение и сияние", 250 мл
+2025-06-04 18:52:12,222: Начало обработки URL: https://www.wildberries.ru/catalog/303253180/detail.aspx
+2025-06-04 18:52:15,505: Успешно: https://www.wildberries.ru/catalog/303253180/detail.aspx - Восстанавливающая маска
+2025-06-04 18:52:16,325: Начало обработки URL: https://www.wildberries.ru/catalog/268186637/detail.aspx
+2025-06-04 18:52:19,572: Успешно: https://www.wildberries.ru/catalog/268186637/detail.aspx - Fiber Infusion Маска для волос с кератином, 750 мл
+2025-06-04 18:52:21,023: Начало обработки URL: https://www.wildberries.ru/catalog/400874895/detail.aspx
+2025-06-04 18:52:24,924: Успешно: https://www.wildberries.ru/catalog/400874895/detail.aspx - Профессиональная увлажняющая маска с кератином
+2025-06-04 18:52:25,658: Начало обработки URL: https://www.wildberries.ru/catalog/396724519/detail.aspx
+2025-06-04 18:52:27,866: Успешно: https://www.wildberries.ru/catalog/396724519/detail.aspx - Маска для волос Perfect Care K Keratin 3in1, 800 г
+2025-06-04 18:52:28,971: Начало обработки URL: https://www.wildberries.ru/catalog/260336055/detail.aspx
+2025-06-04 18:52:31,629: Успешно: https://www.wildberries.ru/catalog/260336055/detail.aspx - Кератиновая маска для волос Оливковое масло и Литсея
+2025-06-04 18:52:32,721: Начало обработки URL: https://www.wildberries.ru/catalog/259816502/detail.aspx
+2025-06-04 18:52:36,750: Успешно: https://www.wildberries.ru/catalog/259816502/detail.aspx - Маска для волос сухих и поврежденных восстанавливающая
+2025-06-04 18:52:37,285: Начало обработки URL: https://www.wildberries.ru/catalog/303254438/detail.aspx
+2025-06-04 18:52:41,053: Успешно: https://www.wildberries.ru/catalog/303254438/detail.aspx - Маска для волос
+2025-06-04 18:52:41,899: Начало обработки URL: https://www.wildberries.ru/catalog/202039283/detail.aspx
+2025-06-04 18:52:44,339: Успешно: https://www.wildberries.ru/catalog/202039283/detail.aspx - Маска для волос восстанавливающая профессиональная HAIR+
+2025-06-04 18:52:44,998: Начало обработки URL: https://www.wildberries.ru/catalog/416457221/detail.aspx
+2025-06-04 18:52:48,948: Успешно: https://www.wildberries.ru/catalog/416457221/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:52:49,811: Начало обработки URL: https://www.wildberries.ru/catalog/429240345/detail.aspx
+2025-06-04 18:52:53,581: Успешно: https://www.wildberries.ru/catalog/429240345/detail.aspx - маска кератиновая для поврежденных волос фаберлик
+2025-06-04 18:52:54,124: Начало обработки URL: https://www.wildberries.ru/catalog/417874570/detail.aspx
+2025-06-04 18:52:57,447: Успешно: https://www.wildberries.ru/catalog/417874570/detail.aspx - Маска для волос с аргановым маслом и кератином
+2025-06-04 18:52:58,248: Начало обработки URL: https://www.wildberries.ru/catalog/199585856/detail.aspx
+2025-06-04 18:53:01,290: Успешно: https://www.wildberries.ru/catalog/199585856/detail.aspx - Кератин для волос, набор кератинового выпрямления по 900 мл
+2025-06-04 18:53:02,690: Начало обработки URL: https://www.wildberries.ru/catalog/333605669/detail.aspx
+2025-06-04 18:53:05,331: Успешно: https://www.wildberries.ru/catalog/333605669/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:53:05,988: Начало обработки URL: https://www.wildberries.ru/catalog/219519727/detail.aspx
+2025-06-04 18:53:08,756: Успешно: https://www.wildberries.ru/catalog/219519727/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:53:09,471: Начало обработки URL: https://www.wildberries.ru/catalog/248475904/detail.aspx
+2025-06-04 18:53:13,441: Успешно: https://www.wildberries.ru/catalog/248475904/detail.aspx - Кератиновая маска для волос 250 мл Il Salone Milano
+2025-06-04 18:53:14,909: Начало обработки URL: https://www.wildberries.ru/catalog/265869283/detail.aspx
+2025-06-04 18:53:18,230: Успешно: https://www.wildberries.ru/catalog/265869283/detail.aspx - Профессиональная кератиновая маска для волос 500 мл
+2025-06-04 18:53:19,238: Начало обработки URL: https://www.wildberries.ru/catalog/188790027/detail.aspx
+2025-06-04 18:53:22,268: Успешно: https://www.wildberries.ru/catalog/188790027/detail.aspx - Маска для волос Shiseido Relaxing 250 мл
+2025-06-04 18:53:23,371: Начало обработки URL: https://www.wildberries.ru/catalog/241931642/detail.aspx
+2025-06-04 18:53:26,873: Успешно: https://www.wildberries.ru/catalog/241931642/detail.aspx - Маска Keratin Color для окрашенных волос 300 мл
+2025-06-04 18:53:27,808: Начало обработки URL: https://www.wildberries.ru/catalog/344875058/detail.aspx
+2025-06-04 18:53:31,363: Успешно: https://www.wildberries.ru/catalog/344875058/detail.aspx - Маска для волос увлажняющая с кератином
+2025-06-04 18:53:32,506: Начало обработки URL: https://www.wildberries.ru/catalog/272536045/detail.aspx
+2025-06-04 18:53:36,196: Успешно: https://www.wildberries.ru/catalog/272536045/detail.aspx - Восстанавливающая маска "HAIR REPAIR MASK", 1000 мл
+2025-06-04 18:53:37,062: Начало обработки URL: https://www.wildberries.ru/catalog/177268531/detail.aspx
+2025-06-04 18:53:39,882: Успешно: https://www.wildberries.ru/catalog/177268531/detail.aspx - Увлажняющая маска для волос профессиональная питательная
+2025-06-04 18:53:40,435: Начало обработки URL: https://www.wildberries.ru/catalog/325398498/detail.aspx
+2025-06-04 18:53:43,273: Успешно: https://www.wildberries.ru/catalog/325398498/detail.aspx - Маска для волос профессиональная увлажняющая
+2025-06-04 18:53:44,047: Начало обработки URL: https://www.wildberries.ru/catalog/162798176/detail.aspx
+2025-06-04 18:53:48,124: Успешно: https://www.wildberries.ru/catalog/162798176/detail.aspx - Увлажняющая маска для окрашенных волос, 400 мл
+2025-06-04 18:53:49,014: Начало обработки URL: https://www.wildberries.ru/catalog/117257590/detail.aspx
+2025-06-04 18:53:53,106: Успешно: https://www.wildberries.ru/catalog/117257590/detail.aspx - Маска для волос с кератином Эльсев восстанавливающая 300мл
+2025-06-04 18:53:53,986: Начало обработки URL: https://www.wildberries.ru/catalog/208380877/detail.aspx
+2025-06-04 18:53:56,712: Успешно: https://www.wildberries.ru/catalog/208380877/detail.aspx - Липидно-протеиновая маска для волос “FOR BLONDE” 500 мл
+2025-06-04 18:53:58,109: Начало обработки URL: https://www.wildberries.ru/catalog/221730157/detail.aspx
+2025-06-04 18:54:00,789: Успешно: https://www.wildberries.ru/catalog/221730157/detail.aspx - Питательная маска для волос с кератином Pro-Sleek
+2025-06-04 18:54:02,297: Начало обработки URL: https://www.wildberries.ru/catalog/342471085/detail.aspx
+2025-06-04 18:54:05,712: Успешно: https://www.wildberries.ru/catalog/342471085/detail.aspx - Маска восстанавливающая для волос с лактобактериями, 145 мл.
+2025-06-04 18:54:06,322: Начало обработки URL: https://www.wildberries.ru/catalog/244187848/detail.aspx
+2025-06-04 18:54:09,487: Успешно: https://www.wildberries.ru/catalog/244187848/detail.aspx - Бальзам-маска восстанавливающая с кератином 930 мл
+2025-06-04 18:54:10,202: Начало обработки URL: https://www.wildberries.ru/catalog/245464007/detail.aspx
+2025-06-04 18:54:13,012: Успешно: https://www.wildberries.ru/catalog/245464007/detail.aspx - Маска для волос Запечатывающий уход Гиалурон+Коллаген
+2025-06-04 18:54:14,242: Начало обработки URL: https://www.wildberries.ru/catalog/179960820/detail.aspx
+2025-06-04 18:54:17,727: Успешно: https://www.wildberries.ru/catalog/179960820/detail.aspx - Парфюмированная маска для поврежденных волос с кератином
+2025-06-04 18:54:18,336: Начало обработки URL: https://www.wildberries.ru/catalog/336045184/detail.aspx
+2025-06-04 18:54:21,774: Успешно: https://www.wildberries.ru/catalog/336045184/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:54:22,562: Начало обработки URL: https://www.wildberries.ru/catalog/410762584/detail.aspx
+2025-06-04 18:54:26,182: Успешно: https://www.wildberries.ru/catalog/410762584/detail.aspx - Маска для волос с экстрактом меда и кератином
+2025-06-04 18:54:26,719: Начало обработки URL: https://www.wildberries.ru/catalog/383665133/detail.aspx
+2025-06-04 18:54:29,161: Успешно: https://www.wildberries.ru/catalog/383665133/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:54:30,541: Начало обработки URL: https://www.wildberries.ru/catalog/262805730/detail.aspx
+2025-06-04 18:54:33,963: Успешно: https://www.wildberries.ru/catalog/262805730/detail.aspx - Маска восстанавливающая для волос 180 мл - 3шт
+2025-06-04 18:54:35,288: Начало обработки URL: https://www.wildberries.ru/catalog/183358364/detail.aspx
+2025-06-04 18:54:37,545: Успешно: https://www.wildberries.ru/catalog/183358364/detail.aspx - Маска для волос EAU DE PARFUM II 250 мл
+2025-06-04 18:54:38,930: Начало обработки URL: https://www.wildberries.ru/catalog/259202682/detail.aspx
+2025-06-04 18:54:41,460: Успешно: https://www.wildberries.ru/catalog/259202682/detail.aspx - Питательная маска для волос с кератином 960 мл.
+2025-06-04 18:54:42,260: Начало обработки URL: https://www.wildberries.ru/catalog/43395908/detail.aspx
+2025-06-04 18:54:45,121: Успешно: https://www.wildberries.ru/catalog/43395908/detail.aspx - Маска для волос RECONSTRUCTOR, 250 мл
+2025-06-04 18:54:46,281: Начало обработки URL: https://www.wildberries.ru/catalog/183358511/detail.aspx
+2025-06-04 18:54:48,581: Успешно: https://www.wildberries.ru/catalog/183358511/detail.aspx - Маска для волос Guerlain Champs Elysees 250 мл
+2025-06-04 18:54:49,963: Начало обработки URL: https://www.wildberries.ru/catalog/412972714/detail.aspx
+2025-06-04 18:54:52,222: Успешно: https://www.wildberries.ru/catalog/412972714/detail.aspx - Маска для волос профессиональная восстанавливающая 250 мл.
+2025-06-04 18:54:53,340: Начало обработки URL: https://www.wildberries.ru/catalog/428169780/detail.aspx
+2025-06-04 18:54:57,359: Успешно: https://www.wildberries.ru/catalog/428169780/detail.aspx - Бальзам-маска Восстанавливающая 550мл
+2025-06-04 18:54:58,486: Начало обработки URL: https://www.wildberries.ru/catalog/423498978/detail.aspx
+2025-06-04 18:55:02,472: Успешно: https://www.wildberries.ru/catalog/423498978/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 18:55:03,426: Начало обработки URL: https://www.wildberries.ru/catalog/235529413/detail.aspx
+2025-06-04 18:55:06,294: Успешно: https://www.wildberries.ru/catalog/235529413/detail.aspx - Маска Реструктурирующая для волос с кератином 750 мл
+2025-06-04 18:55:06,987: Начало обработки URL: https://www.wildberries.ru/catalog/210893914/detail.aspx
+2025-06-04 18:55:09,799: Успешно: https://www.wildberries.ru/catalog/210893914/detail.aspx - Маска для волос .
+2025-06-04 18:55:11,049: Начало обработки URL: https://www.wildberries.ru/catalog/287961373/detail.aspx
+2025-06-04 18:55:14,303: Успешно: https://www.wildberries.ru/catalog/287961373/detail.aspx - Липидная экспресс маска N2 Гладкость и увлажнение 450 гр
+2025-06-04 18:55:15,611: Начало обработки URL: https://www.wildberries.ru/catalog/413006571/detail.aspx
+2025-06-04 18:55:19,434: Успешно: https://www.wildberries.ru/catalog/413006571/detail.aspx - Маска для волос с кератином
+2025-06-04 18:55:20,581: Начало обработки URL: https://www.wildberries.ru/catalog/394731023/detail.aspx
+2025-06-04 18:55:24,043: Успешно: https://www.wildberries.ru/catalog/394731023/detail.aspx - Маска для волос
+2025-06-04 18:55:24,955: Начало обработки URL: https://www.wildberries.ru/catalog/303253757/detail.aspx
+2025-06-04 18:55:27,525: Успешно: https://www.wildberries.ru/catalog/303253757/detail.aspx - Восстанавливающая маска для волос
+2025-06-04 18:55:28,744: Начало обработки URL: https://www.wildberries.ru/catalog/183358293/detail.aspx
+2025-06-04 18:55:32,160: Успешно: https://www.wildberries.ru/catalog/183358293/detail.aspx - Маска для волос Burberry Weekend 250 мл
+2025-06-04 18:55:33,403: Начало обработки URL: https://www.wildberries.ru/catalog/173992276/detail.aspx
+2025-06-04 18:55:36,066: Успешно: https://www.wildberries.ru/catalog/173992276/detail.aspx - Маска для волос Ламинирующая
+2025-06-04 18:55:37,546: Начало обработки URL: https://www.wildberries.ru/catalog/257693006/detail.aspx
+2025-06-04 18:55:41,184: Успешно: https://www.wildberries.ru/catalog/257693006/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:55:42,155: Начало обработки URL: https://www.wildberries.ru/catalog/274991106/detail.aspx
+2025-06-04 18:55:45,612: Успешно: https://www.wildberries.ru/catalog/274991106/detail.aspx - Маска для быстрого восстановления волос, 200 мл
+2025-06-04 18:55:46,549: Начало обработки URL: https://www.wildberries.ru/catalog/387294479/detail.aspx
+2025-06-04 18:55:49,832: Успешно: https://www.wildberries.ru/catalog/387294479/detail.aspx - Маска для волос
+2025-06-04 18:55:50,407: Начало обработки URL: https://www.wildberries.ru/catalog/188505999/detail.aspx
+2025-06-04 18:55:54,555: Успешно: https://www.wildberries.ru/catalog/188505999/detail.aspx - Маска с кератином 500 мл After Keratin
+2025-06-04 18:55:55,965: Начало обработки URL: https://www.wildberries.ru/catalog/375173973/detail.aspx
+2025-06-04 18:56:00,155: Успешно: https://www.wildberries.ru/catalog/375173973/detail.aspx - Парфюмированная маска для волос GOOD GIRL
+2025-06-04 18:56:00,848: Начало обработки URL: https://www.wildberries.ru/catalog/169493646/detail.aspx
+2025-06-04 18:56:04,725: Успешно: https://www.wildberries.ru/catalog/169493646/detail.aspx - WellaSP DIAMONDLuxeOil Маска восстановления кератина400мл
+2025-06-04 18:56:06,123: Начало обработки URL: https://www.wildberries.ru/catalog/432345433/detail.aspx
+2025-06-04 18:56:08,585: Успешно: https://www.wildberries.ru/catalog/432345433/detail.aspx - Профессиональная маска для волос восстанавливающая
+2025-06-04 18:56:09,350: Начало обработки URL: https://www.wildberries.ru/catalog/415198630/detail.aspx
+2025-06-04 18:56:11,803: Успешно: https://www.wildberries.ru/catalog/415198630/detail.aspx - Маска для волос с кератином
+2025-06-04 18:56:12,995: Начало обработки URL: https://www.wildberries.ru/catalog/412873513/detail.aspx
+2025-06-04 18:56:17,069: Успешно: https://www.wildberries.ru/catalog/412873513/detail.aspx - Маска для волос профессиональная восстанавливающая 500 мл.
+2025-06-04 18:56:18,310: Начало обработки URL: https://www.wildberries.ru/catalog/145849105/detail.aspx
+2025-06-04 18:56:22,130: Успешно: https://www.wildberries.ru/catalog/145849105/detail.aspx - Профессиональная увлажняющая маска для волос 2 х 150
+2025-06-04 18:56:23,164: Начало обработки URL: https://www.wildberries.ru/catalog/387085444/detail.aspx
+2025-06-04 18:56:25,771: Успешно: https://www.wildberries.ru/catalog/387085444/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:56:26,358: Начало обработки URL: https://www.wildberries.ru/catalog/377444267/detail.aspx
+2025-06-04 18:56:30,126: Успешно: https://www.wildberries.ru/catalog/377444267/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 18:56:31,467: Начало обработки URL: https://www.wildberries.ru/catalog/222932237/detail.aspx
+2025-06-04 18:56:34,656: Успешно: https://www.wildberries.ru/catalog/222932237/detail.aspx - Маска от желтизны волос Blond Bar 300 мл
+2025-06-04 18:56:36,111: Начало обработки URL: https://www.wildberries.ru/catalog/325385022/detail.aspx
+2025-06-04 18:56:40,439: Успешно: https://www.wildberries.ru/catalog/325385022/detail.aspx - Маска для волос питательная с коллагеном
+2025-06-04 18:56:41,138: Начало обработки URL: https://www.wildberries.ru/catalog/338846515/detail.aspx
+2025-06-04 18:56:45,299: Успешно: https://www.wildberries.ru/catalog/338846515/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 18:56:45,923: Начало обработки URL: https://www.wildberries.ru/catalog/210962960/detail.aspx
+2025-06-04 18:56:48,558: Нет ключевых данных: https://www.wildberries.ru/catalog/210962960/detail.aspx - Product name and price not found
+2025-06-04 18:56:49,219: Начало обработки URL: https://www.wildberries.ru/catalog/313488973/detail.aspx
+2025-06-04 18:56:52,676: Успешно: https://www.wildberries.ru/catalog/313488973/detail.aspx - Маска для волос с кератином
+2025-06-04 18:56:53,732: Начало обработки URL: https://www.wildberries.ru/catalog/103114516/detail.aspx
+2025-06-04 18:56:56,231: Успешно: https://www.wildberries.ru/catalog/103114516/detail.aspx - Маска для волос профессиональная восстанавливающая 150 мл
+2025-06-04 18:56:57,125: Начало обработки URL: https://www.wildberries.ru/catalog/253154265/detail.aspx
+2025-06-04 18:56:59,629: Успешно: https://www.wildberries.ru/catalog/253154265/detail.aspx - Маска для волос липидная интенсивно увлажняющая, 250 мл
+2025-06-04 18:57:00,872: Начало обработки URL: https://www.wildberries.ru/catalog/183358541/detail.aspx
+2025-06-04 18:57:04,226: Успешно: https://www.wildberries.ru/catalog/183358541/detail.aspx - Маска для волос Dolce Gabbana The One for women 250 мл
+2025-06-04 18:57:05,532: Начало обработки URL: https://www.wildberries.ru/catalog/375556986/detail.aspx
+2025-06-04 18:57:08,845: Успешно: https://www.wildberries.ru/catalog/375556986/detail.aspx - Маска для волос с кератином Total Repair
+2025-06-04 18:57:10,154: Начало обработки URL: https://www.wildberries.ru/catalog/258022328/detail.aspx
+2025-06-04 18:57:13,840: Успешно: https://www.wildberries.ru/catalog/258022328/detail.aspx - Маска для волос с кератином 450 мл
+2025-06-04 18:57:14,673: Начало обработки URL: https://www.wildberries.ru/catalog/417878102/detail.aspx
+2025-06-04 18:57:18,576: Успешно: https://www.wildberries.ru/catalog/417878102/detail.aspx - Маска для волос с аргановым маслом и кератином
+2025-06-04 18:57:19,618: Начало обработки URL: https://www.wildberries.ru/catalog/189038509/detail.aspx
+2025-06-04 18:57:23,820: Успешно: https://www.wildberries.ru/catalog/189038509/detail.aspx - Маска для волос
+2025-06-04 18:57:25,190: Начало обработки URL: https://www.wildberries.ru/catalog/233642639/detail.aspx
+2025-06-04 18:57:28,667: Успешно: https://www.wildberries.ru/catalog/233642639/detail.aspx - Восстанавливающая защитная кератиновая маска для волос
+2025-06-04 18:57:29,983: Начало обработки URL: https://www.wildberries.ru/catalog/304394769/detail.aspx
+2025-06-04 18:57:33,798: Успешно: https://www.wildberries.ru/catalog/304394769/detail.aspx - Маска для волос с кератином и коллагеном 3 шт
+2025-06-04 18:57:34,961: Начало обработки URL: https://www.wildberries.ru/catalog/199573149/detail.aspx
+2025-06-04 18:57:37,549: Успешно: https://www.wildberries.ru/catalog/199573149/detail.aspx - Кератин для волос, набор кератинового выпрямления по 250 мл
+2025-06-04 18:57:38,588: Начало обработки URL: https://www.wildberries.ru/catalog/259364235/detail.aspx
+2025-06-04 18:57:42,441: Успешно: https://www.wildberries.ru/catalog/259364235/detail.aspx - Маска для волос с кератином 500 мл
+2025-06-04 18:57:43,727: Начало обработки URL: https://www.wildberries.ru/catalog/210302682/detail.aspx
+2025-06-04 18:57:47,846: Успешно: https://www.wildberries.ru/catalog/210302682/detail.aspx - Маска 8 в 1 для поврежденных и окрашенных волос, 500 мл
+2025-06-04 18:57:49,237: Начало обработки URL: https://www.wildberries.ru/catalog/183358399/detail.aspx
+2025-06-04 18:57:53,248: Успешно: https://www.wildberries.ru/catalog/183358399/detail.aspx - Маска для волос Escada Pacific Paradise 250 мл
+2025-06-04 18:57:53,899: Начало обработки URL: https://www.wildberries.ru/catalog/203589131/detail.aspx
+2025-06-04 18:57:56,371: Успешно: https://www.wildberries.ru/catalog/203589131/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 18:57:57,052: Начало обработки URL: https://www.wildberries.ru/catalog/219887490/detail.aspx
+2025-06-04 18:58:00,803: Успешно: https://www.wildberries.ru/catalog/219887490/detail.aspx - Маска для волос с кератином восстанавливающая Keratin
+2025-06-04 18:58:01,746: Начало обработки URL: https://www.wildberries.ru/catalog/406979186/detail.aspx
+2025-06-04 18:58:04,973: Успешно: https://www.wildberries.ru/catalog/406979186/detail.aspx - маска для волос с кератином
+2025-06-04 18:58:06,324: Начало обработки URL: https://www.wildberries.ru/catalog/392578468/detail.aspx
+2025-06-04 18:58:08,847: Успешно: https://www.wildberries.ru/catalog/392578468/detail.aspx - Увлажняющая маска для волос с кератином и оливой
+2025-06-04 18:58:10,196: Начало обработки URL: https://www.wildberries.ru/catalog/271522227/detail.aspx
+2025-06-04 18:58:13,293: Успешно: https://www.wildberries.ru/catalog/271522227/detail.aspx - Био маска для питания всех типов волос кератиновая - 500 мл
+2025-06-04 18:58:14,513: Начало обработки URL: https://www.wildberries.ru/catalog/218779078/detail.aspx
+2025-06-04 18:58:18,507: Успешно: https://www.wildberries.ru/catalog/218779078/detail.aspx - Маска для волос увлажняющая 500мл
+2025-06-04 18:58:19,562: Начало обработки URL: https://www.wildberries.ru/catalog/178675293/detail.aspx
+2025-06-04 18:58:22,549: Успешно: https://www.wildberries.ru/catalog/178675293/detail.aspx - Бессульфатная протеиновая маска для волос, 250 мл
+2025-06-04 18:58:23,384: Начало обработки URL: https://www.wildberries.ru/catalog/303254835/detail.aspx
+2025-06-04 18:58:25,697: Успешно: https://www.wildberries.ru/catalog/303254835/detail.aspx - Увлажняющая маска для волос
+2025-06-04 18:58:26,749: Начало обработки URL: https://www.wildberries.ru/catalog/357334140/detail.aspx
+2025-06-04 18:58:29,414: Успешно: https://www.wildberries.ru/catalog/357334140/detail.aspx - Суперфуд маска Novex Queratina
+2025-06-04 18:58:30,322: Начало обработки URL: https://www.wildberries.ru/catalog/404348318/detail.aspx
+2025-06-04 18:58:33,482: Успешно: https://www.wildberries.ru/catalog/404348318/detail.aspx - Маска для волос профессиональная увлажняющая
+2025-06-04 18:58:34,187: Начало обработки URL: https://www.wildberries.ru/catalog/152936386/detail.aspx
+2025-06-04 18:58:37,571: Успешно: https://www.wildberries.ru/catalog/152936386/detail.aspx - Маска Londa Fiber Infusion In-Salon Reconstructive 750 мл
+2025-06-04 18:58:38,666: Начало обработки URL: https://www.wildberries.ru/catalog/404376829/detail.aspx
+2025-06-04 18:58:41,793: Успешно: https://www.wildberries.ru/catalog/404376829/detail.aspx - Маска для волос
+2025-06-04 18:58:42,566: Начало обработки URL: https://www.wildberries.ru/catalog/259276825/detail.aspx
+2025-06-04 18:58:45,113: Успешно: https://www.wildberries.ru/catalog/259276825/detail.aspx - Маска для волос сухих и поврежденных восстанавливающая
+2025-06-04 18:58:46,031: Начало обработки URL: https://www.wildberries.ru/catalog/222304039/detail.aspx
+2025-06-04 18:58:49,310: Успешно: https://www.wildberries.ru/catalog/222304039/detail.aspx - Маска для волос Восстановление, 200 мл
+2025-06-04 18:58:50,110: Начало обработки URL: https://www.wildberries.ru/catalog/34727732/detail.aspx
+2025-06-04 18:58:52,592: Успешно: https://www.wildberries.ru/catalog/34727732/detail.aspx - Восстанавливающая маска-бальзам для волос Protein Repair
+2025-06-04 18:58:53,999: Начало обработки URL: https://www.wildberries.ru/catalog/35792291/detail.aspx
+2025-06-04 18:58:57,523: Успешно: https://www.wildberries.ru/catalog/35792291/detail.aspx - Маска восстановление для сухих, поврежденных волос 500 мл
+2025-06-04 18:58:58,796: Начало обработки URL: https://www.wildberries.ru/catalog/188790131/detail.aspx
+2025-06-04 18:59:01,859: Успешно: https://www.wildberries.ru/catalog/188790131/detail.aspx - Маска для волос Jennifer Lopez Live Luxe 250 мл
+2025-06-04 18:59:03,313: Начало обработки URL: https://www.wildberries.ru/catalog/220179674/detail.aspx
+2025-06-04 18:59:06,448: Успешно: https://www.wildberries.ru/catalog/220179674/detail.aspx - Маска для восстановления волос, несмываемая, 100мл
+2025-06-04 18:59:07,321: Начало обработки URL: https://www.wildberries.ru/catalog/151675735/detail.aspx
+2025-06-04 18:59:10,093: Успешно: https://www.wildberries.ru/catalog/151675735/detail.aspx - Профессиональная увлажняющая маска для волос с коллагеном
+2025-06-04 18:59:11,247: Начало обработки URL: https://www.wildberries.ru/catalog/13102464/detail.aspx
+2025-06-04 18:59:13,772: Успешно: https://www.wildberries.ru/catalog/13102464/detail.aspx - Маска для волос от секущихся кончиков, для сухих волос 200мл
+2025-06-04 18:59:14,874: Начало обработки URL: https://www.wildberries.ru/catalog/305314279/detail.aspx
+2025-06-04 18:59:17,963: Успешно: https://www.wildberries.ru/catalog/305314279/detail.aspx - Маска для волос с кератином восстанавливающая 250 мл
+2025-06-04 18:59:19,390: Начало обработки URL: https://www.wildberries.ru/catalog/183358286/detail.aspx
+2025-06-04 18:59:23,284: Успешно: https://www.wildberries.ru/catalog/183358286/detail.aspx - Маска для волос PACO RABANNE ULTRAVIOLET 250 мл
+2025-06-04 18:59:24,109: Начало обработки URL: https://www.wildberries.ru/catalog/265471293/detail.aspx
+2025-06-04 18:59:27,760: Успешно: https://www.wildberries.ru/catalog/265471293/detail.aspx - Маска шапка для волос с кератином гиалуроном
+2025-06-04 18:59:28,589: Начало обработки URL: https://www.wildberries.ru/catalog/38749335/detail.aspx
+2025-06-04 18:59:31,963: Успешно: https://www.wildberries.ru/catalog/38749335/detail.aspx - Маска для волос профессиональная восстанавливающая 500 мл
+2025-06-04 18:59:32,743: Начало обработки URL: https://www.wildberries.ru/catalog/11743464/detail.aspx
+2025-06-04 18:59:35,887: Успешно: https://www.wildberries.ru/catalog/11743464/detail.aspx - Маска для интенсивного восстановления волос MYCARE 500мл
+2025-06-04 18:59:36,868: Начало обработки URL: https://www.wildberries.ru/catalog/249565022/detail.aspx
+2025-06-04 18:59:39,661: Успешно: https://www.wildberries.ru/catalog/249565022/detail.aspx - Маска для волос от выпадения с перцем для роста с кератином
+2025-06-04 18:59:40,174: Начало обработки URL: https://www.wildberries.ru/catalog/417488574/detail.aspx
+2025-06-04 18:59:42,401: Успешно: https://www.wildberries.ru/catalog/417488574/detail.aspx - Корейская маска для волос
+2025-06-04 18:59:43,057: Начало обработки URL: https://www.wildberries.ru/catalog/187361092/detail.aspx
+2025-06-04 18:59:47,132: Успешно: https://www.wildberries.ru/catalog/187361092/detail.aspx - Маска для волос с кератином Гиалуроновое заполнение 500мл
+2025-06-04 18:59:48,274: Начало обработки URL: https://www.wildberries.ru/catalog/411421561/detail.aspx
+2025-06-04 18:59:52,314: Успешно: https://www.wildberries.ru/catalog/411421561/detail.aspx - Маска для волос восстанавливающая с кератином, 500 г
+2025-06-04 18:59:53,022: Начало обработки URL: https://www.wildberries.ru/catalog/172165532/detail.aspx
+2025-06-04 18:59:55,764: Успешно: https://www.wildberries.ru/catalog/172165532/detail.aspx - Маска для волос с кератином против ломкости 400мл
+2025-06-04 18:59:57,236: Начало обработки URL: https://www.wildberries.ru/catalog/265462014/detail.aspx
+2025-06-04 18:59:59,487: Успешно: https://www.wildberries.ru/catalog/265462014/detail.aspx - Восстанавливающая маска для волос с пантенолом
+2025-06-04 19:00:00,334: Начало обработки URL: https://www.wildberries.ru/catalog/177268530/detail.aspx
+2025-06-04 19:00:03,944: Успешно: https://www.wildberries.ru/catalog/177268530/detail.aspx - Увлажняющая маска для волос профессиональная питательная
+2025-06-04 19:00:05,006: Начало обработки URL: https://www.wildberries.ru/catalog/425417390/detail.aspx
+2025-06-04 19:00:08,065: Успешно: https://www.wildberries.ru/catalog/425417390/detail.aspx - Маска для волос Питание и восстановление, 300 мл, 2 шт
+2025-06-04 19:00:08,910: Начало обработки URL: https://www.wildberries.ru/catalog/161834986/detail.aspx
+2025-06-04 19:00:12,129: Успешно: https://www.wildberries.ru/catalog/161834986/detail.aspx - Маска для волос Total Repair 500мл
+2025-06-04 19:00:12,656: Начало обработки URL: https://www.wildberries.ru/catalog/353182814/detail.aspx
+2025-06-04 19:00:16,409: Успешно: https://www.wildberries.ru/catalog/353182814/detail.aspx - Питательная маска для волос виноградная косметика
+2025-06-04 19:00:17,187: Начало обработки URL: https://www.wildberries.ru/catalog/233524403/detail.aspx
+2025-06-04 19:00:19,799: Успешно: https://www.wildberries.ru/catalog/233524403/detail.aspx - Бальзам-Маска для волос восстанавливающая 450 мл.
+2025-06-04 19:00:20,417: Начало обработки URL: https://www.wildberries.ru/catalog/157836488/detail.aspx
+2025-06-04 19:00:23,010: Успешно: https://www.wildberries.ru/catalog/157836488/detail.aspx - Lisse Design Keratin - Кератиновая увлажняющая маска 500 мл
+2025-06-04 19:00:24,314: Начало обработки URL: https://www.wildberries.ru/catalog/391316170/detail.aspx
+2025-06-04 19:00:27,404: Успешно: https://www.wildberries.ru/catalog/391316170/detail.aspx - Маска восстанавливающая с кератином
+2025-06-04 19:00:28,527: Начало обработки URL: https://www.wildberries.ru/catalog/387085445/detail.aspx
+2025-06-04 19:00:32,213: Успешно: https://www.wildberries.ru/catalog/387085445/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:00:33,536: Начало обработки URL: https://www.wildberries.ru/catalog/220528567/detail.aspx
+2025-06-04 19:00:37,567: Успешно: https://www.wildberries.ru/catalog/220528567/detail.aspx - Маска увлажняющая зум Magic Unicorn Mask 250 ml
+2025-06-04 19:00:38,683: Начало обработки URL: https://www.wildberries.ru/catalog/215007166/detail.aspx
+2025-06-04 19:00:41,424: Успешно: https://www.wildberries.ru/catalog/215007166/detail.aspx - Маска для волос женская, косметика профессионального ухода
+2025-06-04 19:00:42,411: Начало обработки URL: https://www.wildberries.ru/catalog/183358392/detail.aspx
+2025-06-04 19:00:46,263: Успешно: https://www.wildberries.ru/catalog/183358392/detail.aspx - Маска для волос Lanvin Oxygene De Lanvin 250 мл
+2025-06-04 19:00:47,495: Начало обработки URL: https://www.wildberries.ru/catalog/225690960/detail.aspx
+2025-06-04 19:00:50,810: Успешно: https://www.wildberries.ru/catalog/225690960/detail.aspx - Маска кератина для поврежденных волос «Умный кератин»
+2025-06-04 19:00:51,665: Начало обработки URL: https://www.wildberries.ru/catalog/122921144/detail.aspx
+2025-06-04 19:00:55,432: Успешно: https://www.wildberries.ru/catalog/122921144/detail.aspx - Маска для сияния и восстановления волос
+2025-06-04 19:00:55,998: Начало обработки URL: https://www.wildberries.ru/catalog/362340372/detail.aspx
+2025-06-04 19:00:59,325: Успешно: https://www.wildberries.ru/catalog/362340372/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:01:00,158: Начало обработки URL: https://www.wildberries.ru/catalog/188790185/detail.aspx
+2025-06-04 19:01:04,075: Успешно: https://www.wildberries.ru/catalog/188790185/detail.aspx - Маска для волос CHANCE EAU VIVE 250 мл
+2025-06-04 19:01:05,362: Начало обработки URL: https://www.wildberries.ru/catalog/3580257/detail.aspx
+2025-06-04 19:01:08,948: Успешно: https://www.wildberries.ru/catalog/3580257/detail.aspx - Маска для волос несмываемая увлажняющая защитная с кератином
+2025-06-04 19:01:09,763: Начало обработки URL: https://www.wildberries.ru/catalog/99809979/detail.aspx
+2025-06-04 19:01:13,442: Успешно: https://www.wildberries.ru/catalog/99809979/detail.aspx - Маска для сухих и окрашенных волос
+2025-06-04 19:01:14,037: Начало обработки URL: https://www.wildberries.ru/catalog/36127699/detail.aspx
+2025-06-04 19:01:18,016: Успешно: https://www.wildberries.ru/catalog/36127699/detail.aspx - Маска для волос с кератином профессиональная увлажняющая
+2025-06-04 19:01:18,851: Начало обработки URL: https://www.wildberries.ru/catalog/326651508/detail.aspx
+2025-06-04 19:01:21,768: Успешно: https://www.wildberries.ru/catalog/326651508/detail.aspx - Восстанавливающая крем-маска для волос Black currant 300 мл.
+2025-06-04 19:01:22,920: Начало обработки URL: https://www.wildberries.ru/catalog/268368785/detail.aspx
+2025-06-04 19:01:25,155: Успешно: https://www.wildberries.ru/catalog/268368785/detail.aspx - Маска для волос профессиональная, против выпадения
+2025-06-04 19:01:26,060: Начало обработки URL: https://www.wildberries.ru/catalog/355869615/detail.aspx
+2025-06-04 19:01:29,319: Успешно: https://www.wildberries.ru/catalog/355869615/detail.aspx - Маска для волос против перхоти, с кератином, 250мл
+2025-06-04 19:01:29,883: Начало обработки URL: https://www.wildberries.ru/catalog/410762569/detail.aspx
+2025-06-04 19:01:33,746: Успешно: https://www.wildberries.ru/catalog/410762569/detail.aspx - Маска для волос с кератином и яйцом для блеска
+2025-06-04 19:01:34,524: Начало обработки URL: https://www.wildberries.ru/catalog/412100963/detail.aspx
+2025-06-04 19:01:38,051: Успешно: https://www.wildberries.ru/catalog/412100963/detail.aspx - Маска для восстановления волос
+2025-06-04 19:01:38,753: Начало обработки URL: https://www.wildberries.ru/catalog/320416693/detail.aspx
+2025-06-04 19:01:42,822: Успешно: https://www.wildberries.ru/catalog/320416693/detail.aspx - Маска-керапластик для волос с кератином 200 мл
+2025-06-04 19:01:44,324: Начало обработки URL: https://www.wildberries.ru/catalog/430633988/detail.aspx
+2025-06-04 19:01:47,854: Успешно: https://www.wildberries.ru/catalog/430633988/detail.aspx - Маска для волос с кератином увлажняющая с кокосом
+2025-06-04 19:01:48,404: Начало обработки URL: https://www.wildberries.ru/catalog/181323140/detail.aspx
+2025-06-04 19:01:52,414: Успешно: https://www.wildberries.ru/catalog/181323140/detail.aspx - Маска с кератином для сильно повреждённых волос, 750 мл
+2025-06-04 19:01:53,649: Начало обработки URL: https://www.wildberries.ru/catalog/419052301/detail.aspx
+2025-06-04 19:01:56,329: Успешно: https://www.wildberries.ru/catalog/419052301/detail.aspx - Ботокс для волос Copacabana Protein Massa BTX
+2025-06-04 19:01:57,696: Начало обработки URL: https://www.wildberries.ru/catalog/348692338/detail.aspx
+2025-06-04 19:02:00,820: Успешно: https://www.wildberries.ru/catalog/348692338/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:02:01,426: Начало обработки URL: https://www.wildberries.ru/catalog/348761580/detail.aspx
+2025-06-04 19:02:03,660: Успешно: https://www.wildberries.ru/catalog/348761580/detail.aspx - Маска для волос TOTAL REPAIR 350мл
+2025-06-04 19:02:04,249: Начало обработки URL: https://www.wildberries.ru/catalog/396440085/detail.aspx
+2025-06-04 19:02:06,505: Успешно: https://www.wildberries.ru/catalog/396440085/detail.aspx - Маска для волос с кератином
+2025-06-04 19:02:08,013: Начало обработки URL: https://www.wildberries.ru/catalog/312625703/detail.aspx
+2025-06-04 19:02:10,275: Успешно: https://www.wildberries.ru/catalog/312625703/detail.aspx - Маска для волос с салонным эффектом, 350мл
+2025-06-04 19:02:10,790: Начало обработки URL: https://www.wildberries.ru/catalog/399245494/detail.aspx
+2025-06-04 19:02:13,880: Успешно: https://www.wildberries.ru/catalog/399245494/detail.aspx - Маска для волос
+2025-06-04 19:02:15,304: Начало обработки URL: https://www.wildberries.ru/catalog/172314770/detail.aspx
+2025-06-04 19:02:17,909: Успешно: https://www.wildberries.ru/catalog/172314770/detail.aspx - Восстанавливающая маска с кератином для волос, 1000 мл
+2025-06-04 19:02:18,514: Начало обработки URL: https://www.wildberries.ru/catalog/396532485/detail.aspx
+2025-06-04 19:02:22,487: Успешно: https://www.wildberries.ru/catalog/396532485/detail.aspx - Натуральная маска для кудрявых волос
+2025-06-04 19:02:23,084: Начало обработки URL: https://www.wildberries.ru/catalog/150970312/detail.aspx
+2025-06-04 19:02:26,115: Успешно: https://www.wildberries.ru/catalog/150970312/detail.aspx - Маска для волос увлажняющая Happy Hair KST ( KERASIST )
+2025-06-04 19:02:27,062: Начало обработки URL: https://www.wildberries.ru/catalog/311860733/detail.aspx
+2025-06-04 19:02:29,611: Успешно: https://www.wildberries.ru/catalog/311860733/detail.aspx - Маска для волос восстанавливающая увлажняющая питательная
+2025-06-04 19:02:30,433: Начало обработки URL: https://www.wildberries.ru/catalog/338416498/detail.aspx
+2025-06-04 19:02:33,046: Успешно: https://www.wildberries.ru/catalog/338416498/detail.aspx - Восстанавливающая маска для волос WAXY SOS BTX Cream Mask
+2025-06-04 19:02:33,655: Начало обработки URL: https://www.wildberries.ru/catalog/188170619/detail.aspx
+2025-06-04 19:02:37,718: Успешно: https://www.wildberries.ru/catalog/188170619/detail.aspx - Alfaparf REHYDRATING FINISH Кератиновая маска для волос500мл
+2025-06-04 19:02:39,199: Начало обработки URL: https://www.wildberries.ru/catalog/331686803/detail.aspx
+2025-06-04 19:02:42,508: Успешно: https://www.wildberries.ru/catalog/331686803/detail.aspx - Маска для волос увлажняющая и восстанавливающая
+2025-06-04 19:02:43,992: Начало обработки URL: https://www.wildberries.ru/catalog/188790216/detail.aspx
+2025-06-04 19:02:46,549: Успешно: https://www.wildberries.ru/catalog/188790216/detail.aspx - Маска для волос AMOUAGE HONOUR 250 мл
+2025-06-04 19:02:47,930: Начало обработки URL: https://www.wildberries.ru/catalog/272937416/detail.aspx
+2025-06-04 19:02:50,179: Успешно: https://www.wildberries.ru/catalog/272937416/detail.aspx - Кератин для выпрямления волос профессиональный, 1000 мл
+2025-06-04 19:02:50,842: Начало обработки URL: https://www.wildberries.ru/catalog/403942697/detail.aspx
+2025-06-04 19:02:54,290: Успешно: https://www.wildberries.ru/catalog/403942697/detail.aspx - Увлажняющая маска для волос с мёдом и кератином
+2025-06-04 19:02:55,471: Начало обработки URL: https://www.wildberries.ru/catalog/433937068/detail.aspx
+2025-06-04 19:02:59,247: Успешно: https://www.wildberries.ru/catalog/433937068/detail.aspx - Маска для волос с кератином увлажняющая
+2025-06-04 19:02:59,790: Начало обработки URL: https://www.wildberries.ru/catalog/169011322/detail.aspx
+2025-06-04 19:03:03,802: Успешно: https://www.wildberries.ru/catalog/169011322/detail.aspx - Маска после кератина и ботокса Keratin Volume Up 250мл.
+2025-06-04 19:03:04,931: Начало обработки URL: https://www.wildberries.ru/catalog/346338487/detail.aspx
+2025-06-04 19:03:07,649: Успешно: https://www.wildberries.ru/catalog/346338487/detail.aspx - Маска для волос с кератином
+2025-06-04 19:03:08,378: Начало обработки URL: https://www.wildberries.ru/catalog/273532729/detail.aspx
+2025-06-04 19:03:11,792: Успешно: https://www.wildberries.ru/catalog/273532729/detail.aspx - Маска для волос увлажняющая с кератином
+2025-06-04 19:03:13,064: Начало обработки URL: https://www.wildberries.ru/catalog/311860734/detail.aspx
+2025-06-04 19:03:16,623: Успешно: https://www.wildberries.ru/catalog/311860734/detail.aspx - Маска для волос увлажняющая восстанавливающая
+2025-06-04 19:03:17,305: Начало обработки URL: https://www.wildberries.ru/catalog/422240443/detail.aspx
+2025-06-04 19:03:20,096: Успешно: https://www.wildberries.ru/catalog/422240443/detail.aspx - Интенсивная маска для восстановления структуры волос 500мл
+2025-06-04 19:03:21,591: Начало обработки URL: https://www.wildberries.ru/catalog/293355114/detail.aspx
+2025-06-04 19:03:25,173: Успешно: https://www.wildberries.ru/catalog/293355114/detail.aspx - Маска для волос питание и восстановление 1000мл
+2025-06-04 19:03:26,347: Начало обработки URL: https://www.wildberries.ru/catalog/341586143/detail.aspx
+2025-06-04 19:03:29,054: Успешно: https://www.wildberries.ru/catalog/341586143/detail.aspx - Маска для волос профессиональная увлажняющая питательная HV
+2025-06-04 19:03:29,842: Начало обработки URL: https://www.wildberries.ru/catalog/251284717/detail.aspx
+2025-06-04 19:03:32,179: Успешно: https://www.wildberries.ru/catalog/251284717/detail.aspx - Маска для волос SOS Восстановление Кератин 300 мл
+2025-06-04 19:03:33,129: Начало обработки URL: https://www.wildberries.ru/catalog/221712945/detail.aspx
+2025-06-04 19:03:36,739: Успешно: https://www.wildberries.ru/catalog/221712945/detail.aspx - Маска для волос с кератином, 110 мл
+2025-06-04 19:03:37,407: Начало обработки URL: https://www.wildberries.ru/catalog/406792853/detail.aspx
+2025-06-04 19:03:40,994: Успешно: https://www.wildberries.ru/catalog/406792853/detail.aspx - Маска для волос с розмарином
+2025-06-04 19:03:41,501: Начало обработки URL: https://www.wildberries.ru/catalog/391591835/detail.aspx
+2025-06-04 19:03:44,999: Успешно: https://www.wildberries.ru/catalog/391591835/detail.aspx - Маска для волос Амла и вербена
+2025-06-04 19:03:45,946: Начало обработки URL: https://www.wildberries.ru/catalog/183358415/detail.aspx
+2025-06-04 19:03:49,712: Успешно: https://www.wildberries.ru/catalog/183358415/detail.aspx - Маска для волос Baldessarini del mar caribbean 250 мл
+2025-06-04 19:03:51,079: Начало обработки URL: https://www.wildberries.ru/catalog/407001185/detail.aspx
+2025-06-04 19:03:54,264: Успешно: https://www.wildberries.ru/catalog/407001185/detail.aspx - Маска для волос с кератином
+2025-06-04 19:03:54,984: Начало обработки URL: https://www.wildberries.ru/catalog/368216203/detail.aspx
+2025-06-04 19:03:57,724: Успешно: https://www.wildberries.ru/catalog/368216203/detail.aspx - Маска для волос с кератином
+2025-06-04 19:03:58,880: Начало обработки URL: https://www.wildberries.ru/catalog/160463491/detail.aspx
+2025-06-04 19:04:02,546: Успешно: https://www.wildberries.ru/catalog/160463491/detail.aspx - Восстанавливающая маска Keratin and Honey
+2025-06-04 19:04:04,023: Начало обработки URL: https://www.wildberries.ru/catalog/224769143/detail.aspx
+2025-06-04 19:04:08,094: Успешно: https://www.wildberries.ru/catalog/224769143/detail.aspx - Разглаживающая маска для волос с кератином
+2025-06-04 19:04:08,754: Начало обработки URL: https://www.wildberries.ru/catalog/364173190/detail.aspx
+2025-06-04 19:04:11,400: Успешно: https://www.wildberries.ru/catalog/364173190/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:04:12,677: Начало обработки URL: https://www.wildberries.ru/catalog/262805729/detail.aspx
+2025-06-04 19:04:15,770: Успешно: https://www.wildberries.ru/catalog/262805729/detail.aspx - Маска восстанавливающая для волос 180 мл - 2шт
+2025-06-04 19:04:16,310: Начало обработки URL: https://www.wildberries.ru/catalog/159186031/detail.aspx
+2025-06-04 19:04:19,277: Успешно: https://www.wildberries.ru/catalog/159186031/detail.aspx - Маска для волос кератиновая, 201мл
+2025-06-04 19:04:20,062: Начало обработки URL: https://www.wildberries.ru/catalog/337656337/detail.aspx
+2025-06-04 19:04:22,954: Успешно: https://www.wildberries.ru/catalog/337656337/detail.aspx - Маска для сухих поврежденных волос Lolane
+2025-06-04 19:04:24,215: Начало обработки URL: https://www.wildberries.ru/catalog/399211951/detail.aspx
+2025-06-04 19:04:26,807: Успешно: https://www.wildberries.ru/catalog/399211951/detail.aspx - Маска для волос Керапластика, Гиалурон + Коллаген, 180 мл
+2025-06-04 19:04:27,834: Начало обработки URL: https://www.wildberries.ru/catalog/430714478/detail.aspx
+2025-06-04 19:04:31,969: Успешно: https://www.wildberries.ru/catalog/430714478/detail.aspx - Маска для волос с кератином и экстрактом яйца
+2025-06-04 19:04:33,126: Начало обработки URL: https://www.wildberries.ru/catalog/316002489/detail.aspx
+2025-06-04 19:04:36,500: Успешно: https://www.wildberries.ru/catalog/316002489/detail.aspx - Маска - шапочка для волос протеиновое восстановление
+2025-06-04 19:04:37,601: Начало обработки URL: https://www.wildberries.ru/catalog/372434140/detail.aspx
+2025-06-04 19:04:41,534: Успешно: https://www.wildberries.ru/catalog/372434140/detail.aspx - Увлажняющая маска для волос с мёдом и кератином
+2025-06-04 19:04:43,027: Начало обработки URL: https://www.wildberries.ru/catalog/188790164/detail.aspx
+2025-06-04 19:04:46,817: Успешно: https://www.wildberries.ru/catalog/188790164/detail.aspx - Маска для волос Britney Spears Midnight Fantasy 250 мл
+2025-06-04 19:04:48,236: Начало обработки URL: https://www.wildberries.ru/catalog/212095152/detail.aspx
+2025-06-04 19:04:50,983: Успешно: https://www.wildberries.ru/catalog/212095152/detail.aspx - Маска для волос восстанавливающая Salon Total
+2025-06-04 19:04:51,824: Начало обработки URL: https://www.wildberries.ru/catalog/115229978/detail.aspx
+2025-06-04 19:04:55,682: Успешно: https://www.wildberries.ru/catalog/115229978/detail.aspx - Маска для волос завершающая профессиональная кератин 1 литр
+2025-06-04 19:04:56,337: Начало обработки URL: https://www.wildberries.ru/catalog/169620449/detail.aspx
+2025-06-04 19:04:59,113: Успешно: https://www.wildberries.ru/catalog/169620449/detail.aspx - Маска для волос восстанавливающая с кератином
+2025-06-04 19:05:00,327: Начало обработки URL: https://www.wildberries.ru/catalog/371774151/detail.aspx
+2025-06-04 19:05:03,487: Успешно: https://www.wildberries.ru/catalog/371774151/detail.aspx - Липидная маска Cuticle Top для восстановления волос, 3х20мл
+2025-06-04 19:05:04,407: Начало обработки URL: https://www.wildberries.ru/catalog/279933762/detail.aspx
+2025-06-04 19:05:07,692: Успешно: https://www.wildberries.ru/catalog/279933762/detail.aspx - Маска для волос восстанавливающая с кератином Restart
+2025-06-04 19:05:08,562: Начало обработки URL: https://www.wildberries.ru/catalog/102141007/detail.aspx
+2025-06-04 19:05:11,900: Успешно: https://www.wildberries.ru/catalog/102141007/detail.aspx - Маска для восстановления волос, несмываемая 100мл
+2025-06-04 19:05:12,976: Начало обработки URL: https://www.wildberries.ru/catalog/353186141/detail.aspx
+2025-06-04 19:05:15,829: Успешно: https://www.wildberries.ru/catalog/353186141/detail.aspx - Маска для волос SOS
+2025-06-04 19:05:17,290: Начало обработки URL: https://www.wildberries.ru/catalog/399215051/detail.aspx
+2025-06-04 19:05:21,175: Успешно: https://www.wildberries.ru/catalog/399215051/detail.aspx - Маска для волос питательная с кератином 250 мл
+2025-06-04 19:05:21,984: Начало обработки URL: https://www.wildberries.ru/catalog/223886015/detail.aspx
+2025-06-04 19:05:25,116: Успешно: https://www.wildberries.ru/catalog/223886015/detail.aspx - Маска для сухих и поврежденных волос 200 мл
+2025-06-04 19:05:25,623: Начало обработки URL: https://www.wildberries.ru/catalog/378195739/detail.aspx
+2025-06-04 19:05:28,112: Успешно: https://www.wildberries.ru/catalog/378195739/detail.aspx - Профессиональная маска для волос с кератином total repair
+2025-06-04 19:05:29,580: Начало обработки URL: https://www.wildberries.ru/catalog/188790068/detail.aspx
+2025-06-04 19:05:32,586: Успешно: https://www.wildberries.ru/catalog/188790068/detail.aspx - Маска для волос Paco Rabanne Invictus Aqua 250 мл
+2025-06-04 19:05:33,810: Начало обработки URL: https://www.wildberries.ru/catalog/43237955/detail.aspx
+2025-06-04 19:05:37,829: Успешно: https://www.wildberries.ru/catalog/43237955/detail.aspx - Маска для волос питательная
+2025-06-04 19:05:38,420: Начало обработки URL: https://www.wildberries.ru/catalog/208499819/detail.aspx
+2025-06-04 19:05:40,797: Успешно: https://www.wildberries.ru/catalog/208499819/detail.aspx - Липидно-протеиновая маска для волос “RECONSTRUCTION” 250 мл
+2025-06-04 19:05:41,567: Начало обработки URL: https://www.wildberries.ru/catalog/193565424/detail.aspx
+2025-06-04 19:05:43,830: Успешно: https://www.wildberries.ru/catalog/193565424/detail.aspx - Маска для волос кератиновая увлажняющая восстанавливающая
+2025-06-04 19:05:45,238: Начало обработки URL: https://www.wildberries.ru/catalog/403275322/detail.aspx
+2025-06-04 19:05:48,364: Успешно: https://www.wildberries.ru/catalog/403275322/detail.aspx - Маска для волос с кератином Total Repair
+2025-06-04 19:05:48,939: Начало обработки URL: https://www.wildberries.ru/catalog/361859525/detail.aspx
+2025-06-04 19:05:52,613: Успешно: https://www.wildberries.ru/catalog/361859525/detail.aspx - Маска для волос Total Repair 500 мл
+2025-06-04 19:05:53,334: Начало обработки URL: https://www.wildberries.ru/catalog/398579852/detail.aspx
+2025-06-04 19:05:57,480: Успешно: https://www.wildberries.ru/catalog/398579852/detail.aspx - Кератиновая маска "Восстановление и гладкость волос" (2шт)
+2025-06-04 19:05:58,009: Начало обработки URL: https://www.wildberries.ru/catalog/188789930/detail.aspx
+2025-06-04 19:06:00,710: Успешно: https://www.wildberries.ru/catalog/188789930/detail.aspx - Маска для волос Escada Ocean Blue 250 мл
+2025-06-04 19:06:01,334: Начало обработки URL: https://www.wildberries.ru/catalog/199412596/detail.aspx
+2025-06-04 19:06:04,635: Успешно: https://www.wildberries.ru/catalog/199412596/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:06:05,173: Начало обработки URL: https://www.wildberries.ru/catalog/94681842/detail.aspx
+2025-06-04 19:06:07,600: Успешно: https://www.wildberries.ru/catalog/94681842/detail.aspx - Маска реанимация волос уход с кератином и гиалуроном, 900 мл
+2025-06-04 19:06:08,654: Начало обработки URL: https://www.wildberries.ru/catalog/100226022/detail.aspx
+2025-06-04 19:06:11,328: Успешно: https://www.wildberries.ru/catalog/100226022/detail.aspx - Keratin Injection Hair Mask Кератиновая маска 200 мл
+2025-06-04 19:06:12,559: Начало обработки URL: https://www.wildberries.ru/catalog/224934858/detail.aspx
+2025-06-04 19:06:16,681: Успешно: https://www.wildberries.ru/catalog/224934858/detail.aspx - Маска бальзам для волос питательная
+2025-06-04 19:06:17,561: Начало обработки URL: https://www.wildberries.ru/catalog/238548886/detail.aspx
+2025-06-04 19:06:20,333: Успешно: https://www.wildberries.ru/catalog/238548886/detail.aspx - Профессиональная маска для волос с кератином Keratin
+2025-06-04 19:06:20,973: Начало обработки URL: https://www.wildberries.ru/catalog/10436195/detail.aspx
+2025-06-04 19:06:24,633: Успешно: https://www.wildberries.ru/catalog/10436195/detail.aspx - Маска профессиональная для волос с кератином 350 мл
+2025-06-04 19:06:26,124: Начало обработки URL: https://www.wildberries.ru/catalog/170370313/detail.aspx
+2025-06-04 19:06:29,231: Успешно: https://www.wildberries.ru/catalog/170370313/detail.aspx - Маска для роста волос с кератином, 250 мл
+2025-06-04 19:06:30,432: Начало обработки URL: https://www.wildberries.ru/catalog/373770758/detail.aspx
+2025-06-04 19:06:32,737: Успешно: https://www.wildberries.ru/catalog/373770758/detail.aspx - Маска для волос KRASSA Keratin
+2025-06-04 19:06:33,481: Начало обработки URL: https://www.wildberries.ru/catalog/138275841/detail.aspx
+2025-06-04 19:06:37,619: Успешно: https://www.wildberries.ru/catalog/138275841/detail.aspx - Маска для волос профессиональная восстанавливающая
+2025-06-04 19:06:38,411: Начало обработки URL: https://www.wildberries.ru/catalog/207976979/detail.aspx
+2025-06-04 19:06:41,862: Успешно: https://www.wildberries.ru/catalog/207976979/detail.aspx - Маска Keraless для волос с кератином 200мл
+2025-06-04 19:06:42,784: Начало обработки URL: https://www.wildberries.ru/catalog/140328148/detail.aspx
+2025-06-04 19:06:45,056: Успешно: https://www.wildberries.ru/catalog/140328148/detail.aspx - Маска для поврежденных волос 250
+2025-06-04 19:06:46,545: Начало обработки URL: https://www.wildberries.ru/catalog/177268532/detail.aspx
+2025-06-04 19:06:49,309: Успешно: https://www.wildberries.ru/catalog/177268532/detail.aspx - Увлажняющая маска для волос профессиональная питательная
+2025-06-04 19:06:50,440: Начало обработки URL: https://www.wildberries.ru/catalog/189348182/detail.aspx
+2025-06-04 19:06:53,092: Успешно: https://www.wildberries.ru/catalog/189348182/detail.aspx - Маска для волос Keratin Укрепление блеск объем питание200мл
+2025-06-04 19:06:54,389: Начало обработки URL: https://www.wildberries.ru/catalog/432805864/detail.aspx
+2025-06-04 19:06:57,169: Успешно: https://www.wildberries.ru/catalog/432805864/detail.aspx - Маска для волос с коллагеном увлажняющая
+2025-06-04 19:06:57,779: Начало обработки URL: https://www.wildberries.ru/catalog/309152564/detail.aspx
+2025-06-04 19:07:00,080: Успешно: https://www.wildberries.ru/catalog/309152564/detail.aspx - Маска для волос увлажняющая от выпадения 500 мл.
+2025-06-04 19:07:00,662: Начало обработки URL: https://www.wildberries.ru/catalog/353186001/detail.aspx
+2025-06-04 19:07:03,487: Успешно: https://www.wildberries.ru/catalog/353186001/detail.aspx - Маска для поврежденных волос восстанавливающая
+2025-06-04 19:07:04,959: Начало обработки URL: https://www.wildberries.ru/catalog/157344034/detail.aspx
+2025-06-04 19:07:07,933: Успешно: https://www.wildberries.ru/catalog/157344034/detail.aspx - Маска для волос восстановление с коллагеном и кератином NEO
+2025-06-04 19:07:09,159: Начало обработки URL: https://www.wildberries.ru/catalog/204125433/detail.aspx
+2025-06-04 19:07:12,107: Успешно: https://www.wildberries.ru/catalog/204125433/detail.aspx - Bonacure Peptide Repair Rescue - Маска для волос 500мл
+2025-06-04 19:07:13,378: Начало обработки URL: https://www.wildberries.ru/catalog/183358518/detail.aspx
+2025-06-04 19:07:17,300: Успешно: https://www.wildberries.ru/catalog/183358518/detail.aspx - Маска для волос Valentino Rock' N' Rose 250 мл
+2025-06-04 19:07:18,665: Начало обработки URL: https://www.wildberries.ru/catalog/369530413/detail.aspx
+2025-06-04 19:07:21,621: Успешно: https://www.wildberries.ru/catalog/369530413/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:07:22,463: Начало обработки URL: https://www.wildberries.ru/catalog/13601706/detail.aspx
+2025-06-04 19:07:25,330: Успешно: https://www.wildberries.ru/catalog/13601706/detail.aspx - Профессиональная увлажняющая маска для волос с коллагеном
+2025-06-04 19:07:26,401: Начало обработки URL: https://www.wildberries.ru/catalog/99816878/detail.aspx
+2025-06-04 19:07:29,270: Успешно: https://www.wildberries.ru/catalog/99816878/detail.aspx - Маска для волос питательная CAROLINA
+2025-06-04 19:07:30,037: Начало обработки URL: https://www.wildberries.ru/catalog/152980887/detail.aspx
+2025-06-04 19:07:33,446: Успешно: https://www.wildberries.ru/catalog/152980887/detail.aspx - Маска для волос профессиональная Happy Hair Keratin Mask
+2025-06-04 19:07:34,098: Начало обработки URL: https://www.wildberries.ru/catalog/182746516/detail.aspx
+2025-06-04 19:07:36,890: Успешно: https://www.wildberries.ru/catalog/182746516/detail.aspx - Протеиновая маска для восстановления поврежденных волос
+2025-06-04 19:07:37,486: Начало обработки URL: https://www.wildberries.ru/catalog/396445740/detail.aspx
+2025-06-04 19:07:40,043: Успешно: https://www.wildberries.ru/catalog/396445740/detail.aspx - Маска для волос с кератином
+2025-06-04 19:07:40,778: Начало обработки URL: https://www.wildberries.ru/catalog/348693573/detail.aspx
+2025-06-04 19:07:44,535: Успешно: https://www.wildberries.ru/catalog/348693573/detail.aspx - Маска для волос питательная с кератином и пептидами 250 мл
+2025-06-04 19:07:45,150: Начало обработки URL: https://www.wildberries.ru/catalog/260906397/detail.aspx
+2025-06-04 19:07:48,822: Успешно: https://www.wildberries.ru/catalog/260906397/detail.aspx - Маска для волос Tree City Масло Ши и кератины, 750 мл
+2025-06-04 19:07:49,774: Начало обработки URL: https://www.wildberries.ru/catalog/219605879/detail.aspx
+2025-06-04 19:07:53,096: Успешно: https://www.wildberries.ru/catalog/219605879/detail.aspx - Маска для волос восстанавливающая эффект ламинирования
+2025-06-04 19:07:54,046: Начало обработки URL: https://www.wildberries.ru/catalog/389754997/detail.aspx
+2025-06-04 19:07:58,199: Успешно: https://www.wildberries.ru/catalog/389754997/detail.aspx - Маска для волос с кератином
+2025-06-04 19:07:59,052: Начало обработки URL: https://www.wildberries.ru/catalog/142952511/detail.aspx
+2025-06-04 19:08:02,533: Успешно: https://www.wildberries.ru/catalog/142952511/detail.aspx - Маска для волос с кератином профессиональная
+2025-06-04 19:08:03,472: Начало обработки URL: https://www.wildberries.ru/catalog/198103972/detail.aspx
+2025-06-04 19:08:06,243: Успешно: https://www.wildberries.ru/catalog/198103972/detail.aspx - Маска для волос с кератином профессиональная увлажняющая
+2025-06-04 19:08:07,055: Начало обработки URL: https://www.wildberries.ru/catalog/183358562/detail.aspx
+2025-06-04 19:08:09,344: Успешно: https://www.wildberries.ru/catalog/183358562/detail.aspx - Маска для волос JOY 250 мл
+2025-06-04 19:08:10,754: Начало обработки URL: https://www.wildberries.ru/catalog/376503966/detail.aspx
+2025-06-04 19:08:14,647: Успешно: https://www.wildberries.ru/catalog/376503966/detail.aspx - Маска с кератином для восстановления волос
+2025-06-04 19:08:15,162: Начало обработки URL: https://www.wildberries.ru/catalog/219027018/detail.aspx
+2025-06-04 19:08:18,886: Успешно: https://www.wildberries.ru/catalog/219027018/detail.aspx - Маска-бальзам для волос восстанавливающая, 450 мл
+2025-06-04 19:08:20,323: Начало обработки URL: https://www.wildberries.ru/catalog/340647827/detail.aspx
+2025-06-04 19:08:23,132: Успешно: https://www.wildberries.ru/catalog/340647827/detail.aspx - Маска для волос восстанавливающая Hi Repair, 250мл
+2025-06-04 19:08:24,527: Начало обработки URL: https://www.wildberries.ru/catalog/268928340/detail.aspx
+2025-06-04 19:08:26,988: Успешно: https://www.wildberries.ru/catalog/268928340/detail.aspx - Увлажняющая маска для волос с разглаживающим эффектом
+2025-06-04 19:08:27,588: Начало обработки URL: https://www.wildberries.ru/catalog/188790137/detail.aspx
+2025-06-04 19:08:31,421: Успешно: https://www.wildberries.ru/catalog/188790137/detail.aspx - Маска для волос VERSACE VERSENSE 250 мл
+2025-06-04 19:08:32,194: Начало обработки URL: https://www.wildberries.ru/catalog/346915854/detail.aspx
+2025-06-04 19:08:36,175: Успешно: https://www.wildberries.ru/catalog/346915854/detail.aspx - Маска для волос с кератином увлажняющая и восстанавливающая
+2025-06-04 19:08:36,914: Начало обработки URL: https://www.wildberries.ru/catalog/213216249/detail.aspx
+2025-06-04 19:08:40,772: Успешно: https://www.wildberries.ru/catalog/213216249/detail.aspx - Маска для волос "Керапластика", Гиалурон и коллаген
+2025-06-04 19:08:41,316: Начало обработки URL: https://www.wildberries.ru/catalog/189448421/detail.aspx
+2025-06-04 19:08:43,702: Успешно: https://www.wildberries.ru/catalog/189448421/detail.aspx - Маска для волос восстанавливающая, кератин и мед
+2025-06-04 19:08:44,545: Начало обработки URL: https://www.wildberries.ru/catalog/338519011/detail.aspx
+2025-06-04 19:08:48,471: Успешно: https://www.wildberries.ru/catalog/338519011/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:08:49,297: Начало обработки URL: https://www.wildberries.ru/catalog/312971107/detail.aspx
+2025-06-04 19:08:53,360: Успешно: https://www.wildberries.ru/catalog/312971107/detail.aspx - Маска для волос с коллагеном 500мл
+2025-06-04 19:08:54,488: Начало обработки URL: https://www.wildberries.ru/catalog/355811022/detail.aspx
+2025-06-04 19:08:58,353: Успешно: https://www.wildberries.ru/catalog/355811022/detail.aspx - Маска для волос Grow Booster Активация роста
+2025-06-04 19:08:59,508: Начало обработки URL: https://www.wildberries.ru/catalog/423498979/detail.aspx
+2025-06-04 19:09:02,992: Успешно: https://www.wildberries.ru/catalog/423498979/detail.aspx - Маска для волос увлажняющая восстанавливающая с кератином
+2025-06-04 19:09:03,882: Начало обработки URL: https://www.wildberries.ru/catalog/367667377/detail.aspx
+2025-06-04 19:09:06,190: Успешно: https://www.wildberries.ru/catalog/367667377/detail.aspx - Маска для волос кератиновая, восстанавливающая Penelopa
+2025-06-04 19:09:06,789: Начало обработки URL: https://www.wildberries.ru/catalog/326586729/detail.aspx
+2025-06-04 19:09:09,608: Успешно: https://www.wildberries.ru/catalog/326586729/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:09:10,846: Начало обработки URL: https://www.wildberries.ru/catalog/397677690/detail.aspx
+2025-06-04 19:09:15,039: Успешно: https://www.wildberries.ru/catalog/397677690/detail.aspx - Total repair Маска для Волос с кератином Восстанавливающая
+2025-06-04 19:09:16,023: Начало обработки URL: https://www.wildberries.ru/catalog/388712827/detail.aspx
+2025-06-04 19:09:20,123: Успешно: https://www.wildberries.ru/catalog/388712827/detail.aspx - Балансирующая маска для сильно поврежденных волос 100 мл
+2025-06-04 19:09:20,743: Начало обработки URL: https://www.wildberries.ru/catalog/428907935/detail.aspx
+2025-06-04 19:09:22,943: Успешно: https://www.wildberries.ru/catalog/428907935/detail.aspx - Кератиновая маска Black Pepper, Amber, Neroli , 200 мл
+2025-06-04 19:09:24,199: Начало обработки URL: https://www.wildberries.ru/catalog/193426851/detail.aspx
+2025-06-04 19:09:26,538: Успешно: https://www.wildberries.ru/catalog/193426851/detail.aspx - Бессульфатная маска для волос KST 250 мл
+2025-06-04 19:09:28,015: Начало обработки URL: https://www.wildberries.ru/catalog/246809792/detail.aspx
+2025-06-04 19:09:30,880: Успешно: https://www.wildberries.ru/catalog/246809792/detail.aspx - Маска для волос профессиональная увлажняющая
+2025-06-04 19:09:31,750: Начало обработки URL: https://www.wildberries.ru/catalog/225269431/detail.aspx
+2025-06-04 19:09:33,994: Успешно: https://www.wildberries.ru/catalog/225269431/detail.aspx - Маска для волос окрашенных и поврежденных. Корея 150мл
+2025-06-04 19:09:34,719: Начало обработки URL: https://www.wildberries.ru/catalog/345982213/detail.aspx
+2025-06-04 19:09:38,065: Успешно: https://www.wildberries.ru/catalog/345982213/detail.aspx - Маска для волос кератиновая 150мл
+2025-06-04 19:09:38,804: Начало обработки URL: https://www.wildberries.ru/catalog/141947062/detail.aspx
+2025-06-04 19:09:41,409: Успешно: https://www.wildberries.ru/catalog/141947062/detail.aspx - Профессиональная маска выпрямляющая для волос INTECH
+2025-06-04 19:09:42,509: Начало обработки URL: https://www.wildberries.ru/catalog/19557190/detail.aspx
+2025-06-04 19:09:45,283: Успешно: https://www.wildberries.ru/catalog/19557190/detail.aspx - Кератиновая маска для волос профессиональная, 500 мл
+2025-06-04 19:09:46,224: Начало обработки URL: https://www.wildberries.ru/catalog/431070642/detail.aspx
+2025-06-04 19:09:50,241: Успешно: https://www.wildberries.ru/catalog/431070642/detail.aspx - Маска кератиновая для волос Лост Черри
+2025-06-04 19:09:50,815: Начало обработки URL: https://www.wildberries.ru/catalog/161753623/detail.aspx
+2025-06-04 19:09:54,661: Успешно: https://www.wildberries.ru/catalog/161753623/detail.aspx - Маска филлер для волос после мытья
+2025-06-04 19:09:55,474: Начало обработки URL: https://www.wildberries.ru/catalog/306868511/detail.aspx
+2025-06-04 19:09:59,594: Успешно: https://www.wildberries.ru/catalog/306868511/detail.aspx - Маска для волос восстанавливающая профессиональная , 400 мл
+2025-06-04 19:10:00,615: Начало обработки URL: https://www.wildberries.ru/catalog/418984512/detail.aspx
+2025-06-04 19:10:03,146: Успешно: https://www.wildberries.ru/catalog/418984512/detail.aspx - Маска для волос профессиональная, с кератином увлажняющая
+2025-06-04 19:10:04,650: Начало обработки URL: https://www.wildberries.ru/catalog/183358500/detail.aspx
+2025-06-04 19:10:07,682: Успешно: https://www.wildberries.ru/catalog/183358500/detail.aspx - Маска для волос Shiseido Vocalise 250 мл
+2025-06-04 19:10:09,073: Начало обработки URL: https://www.wildberries.ru/catalog/399671755/detail.aspx
+2025-06-04 19:10:12,826: Успешно: https://www.wildberries.ru/catalog/399671755/detail.aspx - Маска для волос восстанавливающая с кератином, 300мл
+2025-06-04 19:10:13,458: Начало обработки URL: https://www.wildberries.ru/catalog/420858354/detail.aspx
+2025-06-04 19:10:17,604: Успешно: https://www.wildberries.ru/catalog/420858354/detail.aspx - Кератин для выпрямления волос 500 мл
+2025-06-04 19:10:18,543: Начало обработки URL: https://www.wildberries.ru/catalog/163541576/detail.aspx
+2025-06-04 19:10:21,538: Успешно: https://www.wildberries.ru/catalog/163541576/detail.aspx - Маска бальзам для волос восстанавливающая, 250 мл
+2025-06-04 19:10:22,948: Начало обработки URL: https://www.wildberries.ru/catalog/224562542/detail.aspx
+2025-06-04 19:10:25,192: Успешно: https://www.wildberries.ru/catalog/224562542/detail.aspx - Маска для волос IQ Hair Увлажнение и питание
+2025-06-04 19:10:26,686: Начало обработки URL: https://www.wildberries.ru/catalog/404546165/detail.aspx
+2025-06-04 19:10:29,695: Успешно: https://www.wildberries.ru/catalog/404546165/detail.aspx - Маска для волос восстанавливающая питательная с кератином
+2025-06-04 19:10:30,959: Начало обработки URL: https://www.wildberries.ru/catalog/247439969/detail.aspx
+2025-06-04 19:10:34,017: Успешно: https://www.wildberries.ru/catalog/247439969/detail.aspx - Маска бальзам для волос восстанавливающая
+2025-06-04 19:10:35,366: Начало обработки URL: https://www.wildberries.ru/catalog/332317817/detail.aspx
+2025-06-04 19:10:38,921: Успешно: https://www.wildberries.ru/catalog/332317817/detail.aspx - Маска для волос восстанавливающая Keratin&Honey, 500мл
+2025-06-04 19:10:40,416: Начало обработки URL: https://www.wildberries.ru/catalog/224403634/detail.aspx
+2025-06-04 19:10:43,856: Успешно: https://www.wildberries.ru/catalog/224403634/detail.aspx - Маска для волос с коллагеном
+2025-06-04 19:10:44,438: Начало обработки URL: https://www.wildberries.ru/catalog/273491521/detail.aspx
+2025-06-04 19:10:47,747: Успешно: https://www.wildberries.ru/catalog/273491521/detail.aspx - Маска для волос Экстремальное восстановление
+2025-06-04 19:10:49,159: Начало обработки URL: https://www.wildberries.ru/catalog/188790202/detail.aspx
+2025-06-04 19:10:52,615: Успешно: https://www.wildberries.ru/catalog/188790202/detail.aspx - Маска для волос GIVENCHY HOT COUTURE 250 мл
+2025-06-04 19:10:53,990: Начало обработки URL: https://www.wildberries.ru/catalog/348440239/detail.aspx
+2025-06-04 19:10:58,007: Успешно: https://www.wildberries.ru/catalog/348440239/detail.aspx - Маска для восстановления поврежденных волос, 300 мл
+2025-06-04 19:10:59,175: Начало обработки URL: https://www.wildberries.ru/catalog/240465503/detail.aspx
+2025-06-04 19:11:02,218: Успешно: https://www.wildberries.ru/catalog/240465503/detail.aspx - Кератин Маска 1л.+Шампунь 1л.+ Кондиционер 1л.
+2025-06-04 19:11:02,900: Начало обработки URL: https://www.wildberries.ru/catalog/371102681/detail.aspx
+2025-06-04 19:11:05,785: Успешно: https://www.wildberries.ru/catalog/371102681/detail.aspx - Маска для волос сухих и поврежденных восстанавливающая
+2025-06-04 19:11:07,086: Начало обработки URL: https://www.wildberries.ru/catalog/347348492/detail.aspx
+2025-06-04 19:11:11,230: Успешно: https://www.wildberries.ru/catalog/347348492/detail.aspx - Vois Маска для волос с кератином 350 мл 2 шт
+2025-06-04 19:11:12,324: Начало обработки URL: https://www.wildberries.ru/catalog/229225870/detail.aspx
+2025-06-04 19:11:16,247: Успешно: https://www.wildberries.ru/catalog/229225870/detail.aspx - Восстанавливающая маска для волос, 500 мл
+2025-06-04 19:11:17,018: Начало обработки URL: https://www.wildberries.ru/catalog/219519719/detail.aspx
+2025-06-04 19:11:20,728: Успешно: https://www.wildberries.ru/catalog/219519719/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:11:21,566: Начало обработки URL: https://www.wildberries.ru/catalog/371877969/detail.aspx
+2025-06-04 19:11:24,199: Успешно: https://www.wildberries.ru/catalog/371877969/detail.aspx - Маска для волос восстанавливающая эффект ламинирования
+2025-06-04 19:11:25,390: Начало обработки URL: https://www.wildberries.ru/catalog/260592300/detail.aspx
+2025-06-04 19:11:27,886: Успешно: https://www.wildberries.ru/catalog/260592300/detail.aspx - Восстанавливающая маска для волос с кератином 700 мл
+2025-06-04 19:11:29,260: Начало обработки URL: https://www.wildberries.ru/catalog/260872746/detail.aspx
+2025-06-04 19:11:33,082: Успешно: https://www.wildberries.ru/catalog/260872746/detail.aspx - Завершающая маска после кератина
+2025-06-04 19:11:34,363: Начало обработки URL: https://www.wildberries.ru/catalog/145855513/detail.aspx
+2025-06-04 19:11:36,746: Успешно: https://www.wildberries.ru/catalog/145855513/detail.aspx - Увлажняющая маска - кондиционер для окрашенных волос
+2025-06-04 19:11:38,075: Начало обработки URL: https://www.wildberries.ru/catalog/85341882/detail.aspx
+2025-06-04 19:11:42,224: Успешно: https://www.wildberries.ru/catalog/85341882/detail.aspx - Лайфхак для кератинщика - Amino маска Hair Cuticle Top
+2025-06-04 19:11:42,901: Начало обработки URL: https://www.wildberries.ru/catalog/396831137/detail.aspx
+2025-06-04 19:11:45,549: Успешно: https://www.wildberries.ru/catalog/396831137/detail.aspx - Маска для волос восстановление и блеск
+2025-06-04 19:11:46,703: Начало обработки URL: https://www.wildberries.ru/catalog/59007567/detail.aspx
+2025-06-04 19:11:49,422: Успешно: https://www.wildberries.ru/catalog/59007567/detail.aspx - Реструктурирующая маска для волос с кератином
+2025-06-04 19:11:49,989: Начало обработки URL: https://www.wildberries.ru/catalog/260866114/detail.aspx
+2025-06-04 19:11:53,522: Успешно: https://www.wildberries.ru/catalog/260866114/detail.aspx - Маска для волос с кератином KERATIN восстанавливающая 300 мл
+2025-06-04 19:11:54,708: Начало обработки URL: https://www.wildberries.ru/catalog/335464443/detail.aspx
+2025-06-04 19:11:58,259: Успешно: https://www.wildberries.ru/catalog/335464443/detail.aspx - Маска для волос с кератином профессиональная
+2025-06-04 19:11:58,811: Начало обработки URL: https://www.wildberries.ru/catalog/343416118/detail.aspx
+2025-06-04 19:12:01,374: Успешно: https://www.wildberries.ru/catalog/343416118/detail.aspx - Маска для волос с кератином
+2025-06-04 19:12:02,879: Начало обработки URL: https://www.wildberries.ru/catalog/2089607/detail.aspx
+2025-06-04 19:12:06,098: Успешно: https://www.wildberries.ru/catalog/2089607/detail.aspx - Маска для волос профессиональная увлажняющая с кератином
+2025-06-04 19:12:07,004: Начало обработки URL: https://www.wildberries.ru/catalog/263882457/detail.aspx
+2025-06-04 19:12:10,549: Успешно: https://www.wildberries.ru/catalog/263882457/detail.aspx - Маска для волос с коллагеном 100 мл
+2025-06-04 19:12:12,024: Начало обработки URL: https://www.wildberries.ru/catalog/30327018/detail.aspx
+2025-06-04 19:12:15,543: Успешно: https://www.wildberries.ru/catalog/30327018/detail.aspx - Кератиновая маска для тонких волос KI GOLD PREMIUM 500 мл
+2025-06-04 19:12:17,055: Начало обработки URL: https://www.wildberries.ru/catalog/183358388/detail.aspx
+2025-06-04 19:12:19,606: Успешно: https://www.wildberries.ru/catalog/183358388/detail.aspx - Маска для волос TRUSSARDI DONNA 250 мл
+2025-06-04 19:12:20,933: Начало обработки URL: https://www.wildberries.ru/catalog/304384514/detail.aspx
+2025-06-04 19:12:24,486: Успешно: https://www.wildberries.ru/catalog/304384514/detail.aspx - Маска для волос с коллагеном
+2025-06-04 19:12:25,712: Начало обработки URL: https://www.wildberries.ru/catalog/31277240/detail.aspx
+2025-06-04 19:12:28,453: Успешно: https://www.wildberries.ru/catalog/31277240/detail.aspx - Интенсивная маска для сухих, секущихся волос, 1литр.
+2025-06-04 19:12:29,124: Начало обработки URL: https://www.wildberries.ru/catalog/183358565/detail.aspx
+2025-06-04 19:12:31,933: Успешно: https://www.wildberries.ru/catalog/183358565/detail.aspx - Маска для волос Paco Rabanne XS 250 мл
+2025-06-04 19:12:32,545: Начало обработки URL: https://www.wildberries.ru/catalog/218230701/detail.aspx
+2025-06-04 19:12:36,715: Успешно: https://www.wildberries.ru/catalog/218230701/detail.aspx - Корейская маска для волос с кератином Пол Медисон
+2025-06-04 19:12:37,374: Начало обработки URL: https://www.wildberries.ru/catalog/384541394/detail.aspx
+2025-06-04 19:12:41,014: Успешно: https://www.wildberries.ru/catalog/384541394/detail.aspx - Маска для волос профессиональная после кератина 500 мл
+2025-06-04 19:12:41,844: Начало обработки URL: https://www.wildberries.ru/catalog/381655637/detail.aspx
+2025-06-04 19:12:44,665: Успешно: https://www.wildberries.ru/catalog/381655637/detail.aspx - Маска для волос кератиновая с коллагеном
+2025-06-04 19:12:45,687: Начало обработки URL: https://www.wildberries.ru/catalog/348692084/detail.aspx
+2025-06-04 19:12:49,614: Успешно: https://www.wildberries.ru/catalog/348692084/detail.aspx - Профессиональная маска для волос с кератином
+2025-06-04 19:12:50,488: Начало обработки URL: https://www.wildberries.ru/catalog/95519578/detail.aspx
+2025-06-04 19:12:54,657: Успешно: https://www.wildberries.ru/catalog/95519578/detail.aspx - Восстанавливающая маска для своих и наращенных волос
+2025-06-04 19:12:55,384: Начало обработки URL: https://www.wildberries.ru/catalog/317854653/detail.aspx
+2025-06-04 19:12:58,776: Успешно: https://www.wildberries.ru/catalog/317854653/detail.aspx - Fanola Keraterm Hair ritual Маска для волос, 1000 мл.
+2025-06-04 19:13:00,188: Начало обработки URL: https://www.wildberries.ru/catalog/204549673/detail.aspx
+2025-06-04 19:13:04,059: Успешно: https://www.wildberries.ru/catalog/204549673/detail.aspx - Маска для волос с кератином
+2025-06-04 19:13:04,692: Начало обработки URL: https://www.wildberries.ru/catalog/169011283/detail.aspx
+2025-06-04 19:13:08,318: Успешно: https://www.wildberries.ru/catalog/169011283/detail.aspx - Ботокс для сильно поврежденных волос SOS Intense BTX 100мл
+2025-06-04 19:13:09,117: Начало обработки URL: https://www.wildberries.ru/catalog/203126265/detail.aspx
+2025-06-04 19:13:12,157: Успешно: https://www.wildberries.ru/catalog/203126265/detail.aspx - Маска для сухих и поврежденных волос
+2025-06-04 19:13:13,060: Начало обработки URL: https://www.wildberries.ru/catalog/410233496/detail.aspx
+2025-06-04 19:13:16,682: Успешно: https://www.wildberries.ru/catalog/410233496/detail.aspx - Профессиональная маска для восстановления волос
+2025-06-04 19:13:17,796: Начало обработки URL: https://www.wildberries.ru/catalog/377446174/detail.aspx
+2025-06-04 19:13:20,966: Успешно: https://www.wildberries.ru/catalog/377446174/detail.aspx - Маска для волос увлажняющая с коллагеном
+2025-06-04 19:13:21,717: Начало обработки URL: https://www.wildberries.ru/catalog/303758190/detail.aspx
+2025-06-04 19:13:25,486: Успешно: https://www.wildberries.ru/catalog/303758190/detail.aspx - Маска для волос гиалуроновая кислота и протеины шелка
+2025-06-04 19:13:26,177: Начало обработки URL: https://www.wildberries.ru/catalog/331907612/detail.aspx
+2025-06-04 19:13:28,438: Успешно: https://www.wildberries.ru/catalog/331907612/detail.aspx - Маска для волос с кератином 750 мл Kapous
+2025-06-04 19:13:29,188: Начало обработки URL: https://www.wildberries.ru/catalog/263371273/detail.aspx
+2025-06-04 19:13:33,592: Успешно: https://www.wildberries.ru/catalog/263371273/detail.aspx - Кератиновая маска для волос Восстановление 350 мл
+2025-06-04 19:13:34,743: Начало обработки URL: https://www.wildberries.ru/catalog/297336015/detail.aspx
+2025-06-04 19:13:37,269: Успешно: https://www.wildberries.ru/catalog/297336015/detail.aspx - Keratin Mask маска для волос
+2025-06-04 19:13:38,450: Начало обработки URL: https://www.wildberries.ru/catalog/183358592/detail.aspx
+2025-06-04 19:13:42,290: Успешно: https://www.wildberries.ru/catalog/183358592/detail.aspx - Маска для волос Lanvin Eclat D'arpege 250 мл
+2025-06-04 19:13:43,290: Начало обработки URL: https://www.wildberries.ru/catalog/195515245/detail.aspx
+2025-06-04 19:13:46,104: Успешно: https://www.wildberries.ru/catalog/195515245/detail.aspx - Маска для волос с кератином профессиональная
+2025-06-04 19:13:46,866: Начало обработки URL: https://www.wildberries.ru/catalog/380748163/detail.aspx
+2025-06-04 19:13:49,196: Успешно: https://www.wildberries.ru/catalog/380748163/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:13:49,771: Начало обработки URL: https://www.wildberries.ru/catalog/224592197/detail.aspx
+2025-06-04 19:13:52,312: Успешно: https://www.wildberries.ru/catalog/224592197/detail.aspx - Oleo M Hairplastia кератин для волос 150 мл
+2025-06-04 19:13:52,883: Начало обработки URL: https://www.wildberries.ru/catalog/288082935/detail.aspx
+2025-06-04 19:13:56,155: Успешно: https://www.wildberries.ru/catalog/288082935/detail.aspx - Маска для волос Reconstruction Protein, 100 мл
+2025-06-04 19:13:56,966: Начало обработки URL: https://www.wildberries.ru/catalog/273392707/detail.aspx
+2025-06-04 19:14:00,152: Успешно: https://www.wildberries.ru/catalog/273392707/detail.aspx - Маска для волос Total Miracle разглаживание подарок
+2025-06-04 19:14:00,684: Начало обработки URL: https://www.wildberries.ru/catalog/337137573/detail.aspx
+2025-06-04 19:14:03,247: Успешно: https://www.wildberries.ru/catalog/337137573/detail.aspx - Маска для волос с кератином для восстановления
+2025-06-04 19:14:04,541: Начало обработки URL: https://www.wildberries.ru/catalog/262169873/detail.aspx
+2025-06-04 19:14:08,193: Успешно: https://www.wildberries.ru/catalog/262169873/detail.aspx - Маска крем для волос профессиональная бессульфатная
+2025-06-04 19:14:09,467: Начало обработки URL: https://www.wildberries.ru/catalog/404350671/detail.aspx
+2025-06-04 19:14:12,598: Успешно: https://www.wildberries.ru/catalog/404350671/detail.aspx - Маска для волос ZOOM Keratin Mask 250 мл
+2025-06-04 19:14:13,151: Начало обработки URL: https://www.wildberries.ru/catalog/372435177/detail.aspx
+2025-06-04 19:14:17,269: Успешно: https://www.wildberries.ru/catalog/372435177/detail.aspx - Увлажняющая маска для волос с оливкой и кератином
+2025-06-04 19:14:18,635: Начало обработки URL: https://www.wildberries.ru/catalog/175433370/detail.aspx
+2025-06-04 19:14:21,095: Успешно: https://www.wildberries.ru/catalog/175433370/detail.aspx - Маска для волос (пакет 500мл) Eco hydro LPP treatment
+2025-06-04 19:14:22,376: Начало обработки URL: https://www.wildberries.ru/catalog/331890632/detail.aspx
+2025-06-04 19:14:25,742: Успешно: https://www.wildberries.ru/catalog/331890632/detail.aspx - Профессиональная маска для волос увлажнение и восстановление
+2025-06-04 19:14:27,219: Начало обработки URL: https://www.wildberries.ru/catalog/71813673/detail.aspx
+2025-06-04 19:14:29,652: Успешно: https://www.wildberries.ru/catalog/71813673/detail.aspx - Маска увлажняющая для сухих и поврежденных волос, 530 мл
+2025-06-04 19:14:31,050: Начало обработки URL: https://www.wildberries.ru/catalog/389193178/detail.aspx
+2025-06-04 19:14:34,883: Успешно: https://www.wildberries.ru/catalog/389193178/detail.aspx - Маска для волос с кератином Total Repair Ruw
+2025-06-04 19:14:35,508: Начало обработки URL: https://www.wildberries.ru/catalog/183358370/detail.aspx
+2025-06-04 19:14:39,546: Успешно: https://www.wildberries.ru/catalog/183358370/detail.aspx - Маска для волос KILIAN INTOXICATED 250 мл
+2025-06-04 19:14:40,979: Начало обработки URL: https://www.wildberries.ru/catalog/249694503/detail.aspx
+2025-06-04 19:14:44,423: Успешно: https://www.wildberries.ru/catalog/249694503/detail.aspx - Маска для волос ламинирующая 250 мл
+2025-06-04 19:14:45,829: Начало обработки URL: https://www.wildberries.ru/catalog/298642093/detail.aspx
+2025-06-04 19:14:48,294: Успешно: https://www.wildberries.ru/catalog/298642093/detail.aspx - Маска для волос восстанавливающая 180 мл
+2025-06-04 19:14:49,438: Начало обработки URL: https://www.wildberries.ru/catalog/311859843/detail.aspx
+2025-06-04 19:14:52,275: Успешно: https://www.wildberries.ru/catalog/311859843/detail.aspx - Маска для волос натуральная с кератином
+2025-06-04 19:14:52,838: Начало обработки URL: https://www.wildberries.ru/catalog/243754453/detail.aspx
+2025-06-04 19:14:56,703: Успешно: https://www.wildberries.ru/catalog/243754453/detail.aspx - Маска для всех типов волос ГЛУБОКОЕ УВЛАЖНЕНИЕ с кератином
+2025-06-04 19:14:57,922: Начало обработки URL: https://www.wildberries.ru/catalog/321388983/detail.aspx
+2025-06-04 19:15:01,110: Успешно: https://www.wildberries.ru/catalog/321388983/detail.aspx - Маска для волос Прелесть с кератином 500 мл.
+2025-06-04 19:15:01,940: Начало обработки URL: https://www.wildberries.ru/catalog/240217483/detail.aspx
+2025-06-04 19:15:05,741: Успешно: https://www.wildberries.ru/catalog/240217483/detail.aspx - Маска для волос с кератином 400 мл
+2025-06-04 19:15:06,861: Начало обработки URL: https://www.wildberries.ru/catalog/161856698/detail.aspx
+2025-06-04 19:15:10,751: Успешно: https://www.wildberries.ru/catalog/161856698/detail.aspx - Маска для волос восстанавливающая и укрепляющая с Кератином
+2025-06-04 19:15:12,004: Начало обработки URL: https://www.wildberries.ru/catalog/368060453/detail.aspx
+2025-06-04 19:15:14,867: Успешно: https://www.wildberries.ru/catalog/368060453/detail.aspx - Корейская маска для сухих и поврежденных волос с коллагеном
+2025-06-04 19:15:15,699: Начало обработки URL: https://www.wildberries.ru/catalog/375569431/detail.aspx
+2025-06-04 19:15:18,493: Успешно: https://www.wildberries.ru/catalog/375569431/detail.aspx - Парфюмированная маска для волос CRYSTAL
+2025-06-04 19:15:19,760: Начало обработки URL: https://www.wildberries.ru/catalog/353757777/detail.aspx
+2025-06-04 19:15:22,729: Успешно: https://www.wildberries.ru/catalog/353757777/detail.aspx - Маска для волос профессиональная
+2025-06-04 19:15:24,175: Начало обработки URL: https://www.wildberries.ru/catalog/323283323/detail.aspx
+2025-06-04 19:15:26,614: Успешно: https://www.wildberries.ru/catalog/323283323/detail.aspx - Бессульфатная маска с кератином для волос №1 "Natural"
+2025-06-04 19:15:27,371: Начало обработки URL: https://www.wildberries.ru/catalog/240461295/detail.aspx
+2025-06-04 19:15:30,478: Успешно: https://www.wildberries.ru/catalog/240461295/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:15:31,083: Начало обработки URL: https://www.wildberries.ru/catalog/173155716/detail.aspx
+2025-06-04 19:15:33,873: Успешно: https://www.wildberries.ru/catalog/173155716/detail.aspx - Маска для волос Гиалурон + коллаген Восстанавливающая 180мл
+2025-06-04 19:15:35,175: Начало обработки URL: https://www.wildberries.ru/catalog/405057501/detail.aspx
+2025-06-04 19:15:38,905: Успешно: https://www.wildberries.ru/catalog/405057501/detail.aspx - Маска для волос с экстрактом оливы и кератином
+2025-06-04 19:15:40,106: Начало обработки URL: https://www.wildberries.ru/catalog/223706047/detail.aspx
+2025-06-04 19:15:43,313: Успешно: https://www.wildberries.ru/catalog/223706047/detail.aspx - Профессиональная маска для окрашенных волос
+2025-06-04 19:15:44,319: Начало обработки URL: https://www.wildberries.ru/catalog/303253040/detail.aspx
+2025-06-04 19:15:46,719: Успешно: https://www.wildberries.ru/catalog/303253040/detail.aspx - кератиновая Маска для интенсивного питания волос
+2025-06-04 19:15:47,714: Начало обработки URL: https://www.wildberries.ru/catalog/201724552/detail.aspx
+2025-06-04 19:15:50,892: Успешно: https://www.wildberries.ru/catalog/201724552/detail.aspx - Увлажняющая маска для волос с кератином восстанавливающая
+2025-06-04 19:15:52,267: Начало обработки URL: https://www.wildberries.ru/catalog/44491923/detail.aspx
+2025-06-04 19:15:56,055: Успешно: https://www.wildberries.ru/catalog/44491923/detail.aspx - Маска для волос восстанавливающая MY GOLOVA PERFECT HAIR
+2025-06-04 19:15:57,303: Начало обработки URL: https://www.wildberries.ru/catalog/198427703/detail.aspx
+2025-06-04 19:16:01,227: Успешно: https://www.wildberries.ru/catalog/198427703/detail.aspx - Маска для волос профессиональная с кератином
+2025-06-04 19:16:01,837: Начало обработки URL: https://www.wildberries.ru/catalog/413697868/detail.aspx
+2025-06-04 19:16:05,168: Успешно: https://www.wildberries.ru/catalog/413697868/detail.aspx - Восстанавливающая маска для волос с кератином 250 мл
+2025-06-04 19:16:06,598: Начало обработки URL: https://www.wildberries.ru/catalog/134211683/detail.aspx
+2025-06-04 19:16:10,746: Успешно: https://www.wildberries.ru/catalog/134211683/detail.aspx - маска для волос с кератином восстанавливающая для кудрявых
+2025-06-04 19:16:11,714: Начало обработки URL: https://www.wildberries.ru/catalog/225106530/detail.aspx
+2025-06-04 19:16:15,658: Успешно: https://www.wildberries.ru/catalog/225106530/detail.aspx - Профессиональная увлажняющая маска для волос с кератином
+2025-06-04 19:16:16,291: Начало обработки URL: https://www.wildberries.ru/catalog/269526882/detail.aspx
+2025-06-04 19:16:20,225: Успешно: https://www.wildberries.ru/catalog/269526882/detail.aspx - Маска для волос с кератином и маточным молочком
+2025-06-04 19:16:21,601: Начало обработки URL: https://www.wildberries.ru/catalog/154661598/detail.aspx
+2025-06-04 19:16:24,896: Успешно: https://www.wildberries.ru/catalog/154661598/detail.aspx - Маска для волос с кератином восстанавливающая
+2025-06-04 19:16:25,624: Начало обработки URL: https://www.wildberries.ru/catalog/314151123/detail.aspx
+2025-06-04 19:16:27,897: Успешно: https://www.wildberries.ru/catalog/314151123/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая.
+2025-06-04 19:16:29,185: Начало обработки URL: https://www.wildberries.ru/catalog/3052451/detail.aspx
+2025-06-04 19:16:33,224: Успешно: https://www.wildberries.ru/catalog/3052451/detail.aspx - Маска для роста волос с кератином, 500мл
+2025-06-04 19:16:34,580: Начало обработки URL: https://www.wildberries.ru/catalog/190720298/detail.aspx
+2025-06-04 19:16:37,529: Успешно: https://www.wildberries.ru/catalog/190720298/detail.aspx - Восстанавливающая маска для волос Vitalizing 300 мл
+2025-06-04 19:16:38,185: Начало обработки URL: https://www.wildberries.ru/catalog/343343165/detail.aspx
+2025-06-04 19:16:41,352: Успешно: https://www.wildberries.ru/catalog/343343165/detail.aspx - Маска для волос с кератином увлажняющая восстанавливающая
+2025-06-04 19:16:42,058: Начало обработки URL: https://www.wildberries.ru/catalog/371468614/detail.aspx
+2025-06-04 19:16:45,001: Успешно: https://www.wildberries.ru/catalog/371468614/detail.aspx - Корейская маска для сухих и поврежденных волос с коллагеном
+2025-06-04 19:16:45,817: Начало обработки URL: https://www.wildberries.ru/catalog/183358452/detail.aspx
+2025-06-04 19:16:48,815: Успешно: https://www.wildberries.ru/catalog/183358452/detail.aspx - Маска для волос ARMAND BASI IN RED 250 мл
+2025-06-04 19:16:49,330: Начало обработки URL: https://www.wildberries.ru/catalog/337296184/detail.aspx
+2025-06-04 19:16:52,664: Успешно: https://www.wildberries.ru/catalog/337296184/detail.aspx - Маска для волос восстанавливающая Keratin&Honey, 500мл
+2025-06-04 19:16:53,386: Начало обработки URL: https://www.wildberries.ru/catalog/147549704/detail.aspx
+2025-06-04 19:16:57,254: Успешно: https://www.wildberries.ru/catalog/147549704/detail.aspx - Care Keratin Smooth Mask - Маска Кератиновый комплекс
+2025-06-04 19:16:58,298: Начало обработки URL: https://www.wildberries.ru/catalog/344856573/detail.aspx
+2025-06-04 19:17:01,336: Успешно: https://www.wildberries.ru/catalog/344856573/detail.aspx - Маска для волос с коллагеновым комплексом
+2025-06-04 19:17:02,785: Начало обработки URL: https://www.wildberries.ru/catalog/250081203/detail.aspx
+2025-06-04 19:17:06,046: Успешно: https://www.wildberries.ru/catalog/250081203/detail.aspx - Восстанавливающая маска для глубокого питания волос мини
+2025-06-04 19:17:06,918: Начало обработки URL: https://www.wildberries.ru/catalog/183358374/detail.aspx
+2025-06-04 19:17:09,294: Успешно: https://www.wildberries.ru/catalog/183358374/detail.aspx - Маска для волос Burberry Body 250 мл
+2025-06-04 19:17:09,995: Начало обработки URL: https://www.wildberries.ru/catalog/183358472/detail.aspx
+2025-06-04 19:17:12,554: Успешно: https://www.wildberries.ru/catalog/183358472/detail.aspx - Маска для волос Rush 250 мл
+2025-06-04 19:17:13,878: Начало обработки URL: https://www.wildberries.ru/catalog/388959559/detail.aspx
+2025-06-04 19:17:16,590: Успешно: https://www.wildberries.ru/catalog/388959559/detail.aspx - Восстанавливающая маска для волос, 200 мл, Keraforce
+2025-06-04 19:17:17,387: Начало обработки URL: https://www.wildberries.ru/catalog/215854089/detail.aspx
+2025-06-04 19:17:20,455: Успешно: https://www.wildberries.ru/catalog/215854089/detail.aspx - маска-керапластик интенсивный уход с кератином
+2025-06-04 19:17:21,407: Начало обработки URL: https://www.wildberries.ru/catalog/183976682/detail.aspx
+2025-06-04 19:17:24,888: Успешно: https://www.wildberries.ru/catalog/183976682/detail.aspx - Маска для волос с кератином 400 мл
