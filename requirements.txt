@@ -1,7 +1,6 @@
+aiogram==3.*
+requests
 selenium
-beautifulsoup4
 webdriver-manager
-pandas
-fake-useragent
-requests 
-python-dotenv
+beautifulsoup4
+pandas 
